@@ -1,0 +1,23 @@
+.next {
+  @mixin section-padding;
+  background-color: $color-dark-blue;
+  color: $color-white;
+
+  .wrap {
+    text-align: center;
+  }
+}
+
+.next-headline {
+  @mixin section-headline;
+  color: $color-gold;
+}
+
+.next-district {
+  @mixin font-im-fell-english;
+  font-size: responsive 0.8rem 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  line-height: 1;
+  margin: 0;
+}

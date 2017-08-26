@@ -1,0 +1,37 @@
+.social {
+  @mixin section-padding;
+  background-color: $color-white;
+
+  .wrap {
+    text-align: center;
+  }
+}
+
+.social-headline {
+  @mixin section-headline;
+}
+
+.social-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  list-style: none;
+  padding: 0;
+}
+
+.social-link {
+  @mixin font-im-fell-english;
+  color: $color-grey;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  line-height: 1;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

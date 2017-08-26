@@ -1,0 +1,72 @@
+.hero {
+  background-color: $color-dark-blue;
+  background-image: url(/assets/images/core/homepage-hero.jpg);
+  background-position: 30% 50%;
+  background-size: cover;
+  height: 100vh;
+
+  .wrap {
+    height: 100vh;
+    padding: 0;
+    position: relative;
+    text-align: center;
+  }
+}
+
+.hero-cover {
+  background: linear-gradient(to bottom, rgba($color-black, 0) 0%, rgba($color-black, 0) 40%, rgba($color-black, 1) 100%);
+  bottom: 0;
+  height: 100vh;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 2;
+}
+
+.hero-title {
+  bottom: 15vh;
+  position: absolute;
+  width: 100%;
+  z-index: 3;
+
+  &::before,
+  &::after {
+    background: rgba($color-white, 0.3);
+    content: "";
+    height: 2px;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    right: 0;
+    width: 30%;
+  }
+
+  &::before {
+    top: -50px;
+  }
+
+  &::after {
+    bottom: -30px;
+  }
+}
+
+.hero-movement {
+  @mixin font-im-fell-english;
+  color: $color-gold;
+  display: block;
+  font-size: responsive 2.75rem 5.5rem;
+  font-style: italic;
+  line-height: 0.7;
+}
+
+.hero-city {
+  @mixin font-im-fell-english;
+  color: $color-white;
+  font-size: responsive 2rem 4rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  line-height: 1;
+  text-transform: uppercase;
+}

@@ -1,0 +1,63 @@
+.page-hero {
+  background-color: $color-dark-blue;
+  background-image: url(/assets/images/core/homepage-hero.jpg);
+  background-position: 50% 60%;
+  background-size: cover;
+  height: 30vh;
+
+  .wrap {
+    height: 30vh;
+    position: relative;
+    text-align: center;
+  }
+}
+
+.page-hero-cover {
+  background: linear-gradient(to bottom, rgba($color-black, 0) 0%, rgba($color-black, 0) 40%, rgba($color-black, 1) 100%);
+  height: 30vh;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 2;
+}
+
+.page-title-container {
+  bottom: 10vh;
+  left: 0;
+  position: absolute;
+  right: 0;
+  width: 100%;
+  z-index: 3;
+
+  &::before,
+  &::after {
+    background: $color-white;
+    content: "";
+    height: 2px;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    right: 0;
+    width: 30%;
+  }
+
+  &::before {
+    top: -30px;
+  }
+
+  &::after {
+    bottom: -30px;
+  }
+}
+
+.page-title {
+  @mixin font-im-fell-english;
+  color: $color-white;
+  font-size: responsive 2rem 4rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  line-height: 1;
+  text-transform: uppercase;
+}

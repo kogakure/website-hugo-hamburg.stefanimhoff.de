@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html lang="{{ if isset .Params "language" }}{{ .Params.language }}{{ else }}{{ .Site.LanguageCode }}{{ end }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>
+    {{ if .IsHome }}
+      {{ .Site.Title }}
+    {{ else }}
+      {{ .Title | plainify }} - {{ .Site.Title }}
+    {{ end}}
+  </title>
+
+  <!-- Mobile -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="{{ .Site.Title }}">
+
+  <meta name="format-detection" content="telephone=no">
+  <meta name="format-detection" content="address=no">
+
+  <!-- Prefetch -->
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//www.google-analytics.com">
+  {{ if not .IsHome }}
+    <link rel="prerender" href="{{ .Site.BaseURL }}">
+  {{ end }}
+  {{ if .IsPage }}
+    {{ if .NextInSection }}
+      <link rel="prefetch" href="{{ .NextInSection.Permalink }}">
+    {{ end }}
+    {{ if .PrevInSection }}
+      <link rel="prefetch" href="{{ .PrevInSection.Permalink }}">
+    {{ end }}
+  {{ end }}
+
+  <!-- Fonts -->
+  <meta http-equiv="cleartype" content="on">
+
+  <!-- Robots -->
+  {{ if and (.IsNode) (ne .IsHome true) }}
+    <meta name="robots" content="noindex,follow">
+  {{ else }}
+    {{ if isset .Params "robots" }}
+      <meta name="robots" content="{{ .Params.robots }}">
+    {{ else}}
+      <meta name="robots" content="all">
+    {{ end }}
+  {{ end }}
+
+  <!-- Description -->
+  {{ if (.IsPage) }}
+  <meta name="description" content="{{ .Summary }}">
+  {{ else }}
+  <meta name="description" content="{{ .Site.Params.description }}">
+  {{ end }}
+
+  <!-- OpenGraph-->
+  <meta property="og:url" content="{{ .Permalink }}">
+  {{ if .IsHome }}
+  <meta property="og:title" content="{{ .Site.Title }}">
+  {{ else }}
+  <meta property="og:title" content="{{ .Title | plainify }} - {{ .Site.Title }}">
+  {{ end }}
+  {{ if (.IsPage) }}
+  <meta property="og:description" content="{{ .Summary }}">
+  {{ else }}
+  <meta property="og:description" content="{{ .Site.Params.description }}">
+  {{ end }}
+
+  {{ if eq .Section "stadtteil" }}
+  <meta property="og:image" content="{{ .Site.BaseURL }}assets/images/hero/{{ .Slug }}.jpg">
+  {{ else }}
+  <meta property="og:image" content="{{ .Site.BaseURL }}assets/images/core/homepage-hero.jpg">
+  {{ end }}
+
+  <!-- Language -->
+  <meta name="content-language" content="{{ if isset .Params "language" }}{{ .Params.language }}{{ else }}{{ .Site.LanguageCode }}{{ end }}">
+
+  <!-- Author -->
+  <meta name="author" content="{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}Stefan Imhoff{{ end }}">
+  <link type="text/plain" rel="author" href="{{ .Site.BaseURL }}humans.txt">
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.ico" type="image/x-icon">
+  <link rel="icon" href="{{ .Site.BaseURL }}favicon.ico" type="image/x-icon">
+
+  <!-- Canonical -->
+  <link rel="canonical" href="{{ .Permalink }}">
+
+  <!-- Critical CSS -->
+  {{ partial "critical" . }}
+
+  <!-- Feeds -->
+  <link href="{{ .Site.Params.feedburner }}" rel="alternate" title="{{ .Site.Title }}" type="application/rss+xml">
+  <link href="{{ .Site.Params.feedburner }}" rel="feed" title="{{ .Site.Title }}" type="application/rss+xml">
+
+  <!-- Generator -->
+  {{ .Hugo.Generator }}
+
+  <!-- Switch off Microsoft junk -->
+  <meta name="MSSmartTagsPreventParsing" content="true">
+  <meta http-equiv="imagetoolbar" content="no">
+
+  <!-- JSON-LD Site name -->
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "{{ .Site.Title }}",
+      "url": "https://hamburg.stefanimhoff.de"
+    }
+  </script>
+
+  <!-- Statistics -->
+  {{ if .Site.Params.tracking }}
+  {{ partial "head/tracking" . }}
+  {{ end }}
+</head>

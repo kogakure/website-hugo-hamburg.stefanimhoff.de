@@ -1,0 +1,27 @@
+@define-mixin font-im-fell-english {
+  font-family: 'IM Fell English', serif;
+}
+
+@define-mixin font-playfair-display {
+  font-family: 'Playfair Display', serif;
+}
+
+@define-mixin section-headline {
+  @mixin font-im-fell-english;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  display: inline-block;
+  font-size: responsive 1rem 2rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  line-height: 1;
+  margin-bottom: 1.2em;
+  margin-top: 0;
+  padding-bottom: 0.5em;
+  text-transform: uppercase;
+}
+
+@define-mixin section-padding {
+  padding-bottom: 4em;
+  padding-top: 3.5em;
+}

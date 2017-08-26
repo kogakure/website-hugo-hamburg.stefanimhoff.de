@@ -1,0 +1,21 @@
+<header id="hero" class="post-hero" style="background-image: url(/assets/images/hero/{{ .Slug }}.jpg);">
+  <a href="/" class="anker-link">
+    <svg class="anker-icon">
+      <use xlink:href="#anker"></use>
+    </svg>
+  </a>
+  <div class="post-hero-cover"></div>
+  <div class="wrap">
+    <div class="post-title-container">
+      <h1 class="post-title">
+        {{ .Title }}
+      </h1>
+      <h2 class="post-meta">
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">
+          {{ .Date.Format "02.01.2006" }}
+        </time>
+        · {{ .Params.distance }} km · {{ .Params.duration }} Std.
+      </h2>
+    </div>
+  </div>
+</header>

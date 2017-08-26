@@ -1,0 +1,16 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+  <div class="wrap">
+    <section id="content" class="main-content">
+      <ul>
+        {{ range .Data.Pages }}
+        <li>
+          <a href="{{ .RelPermalink }}">
+            {{ .Title }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </section>
+  </div>
+{{ end }}

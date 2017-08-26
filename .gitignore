@@ -1,0 +1,8 @@
+# Ignore hidden folders
+.*/
+
+resize/
+build/
+node_modules
+app/layouts/partials/critical/critical.css
+app/layouts/partials/critical/critical_homepage.css

@@ -1,0 +1,45 @@
+baseurl         = "https://hamburg.stefanimhoff.de/"
+title           = "Exploring Hamburg"
+languageCode    = "de"
+metaDataFormat  = "yaml"
+paginate        = 0
+buildDrafts     = false
+buildFuture     = false
+disable404      = true
+enableRobotsTXT = true
+watch           = true
+
+archetypedir  = "app/archetypes"
+contentdir    = "app/content"
+dataDir       = "app/data"
+layoutdir     = "app/layouts"
+publishdir    = "build/production"
+staticdir     = "app/static"
+themesdir     = "app/themes"
+
+[blackfriday]
+  smartypants     = false
+  plainIDAnchors  = true
+  hrefTargetBlank = true
+  extensions      = [""]
+
+[permalinks]
+  stadtteil = "/:slug/"
+
+[taxonomies]
+  tag = "tags"
+
+[[menu.main]]
+  name = "Startseite"
+  url = "/"
+  weight = 0
+[[menu.main]]
+  name = "Impressum"
+  url = "/impressum/"
+  weight = 10
+
+[params]
+  criticalcss = true
+  tracking    = true
+  description = "Hamburg entdecken. Straße für Straße, Stadtteil für Stadtteil."
+  feedburner = "https://feeds.feedburner.com/hamburg-stefanimhoff"

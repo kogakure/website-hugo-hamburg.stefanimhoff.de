@@ -1,0 +1,28 @@
+<footer class="footer-meta">
+
+  <div class="wrap">
+    <div class="article-meta">
+      <div class="article-meta-published">
+        <span class="article-meta-label">
+          Veröffentlicht am
+        </span>
+        <span class="article-meta-value">
+          {{ .Date.Format "02.01.2006" }}
+        </span>
+      </div>
+      <div class="article-meta-tags">
+        {{ if isset .Params "tags" }}
+        <span class="article-meta-label">
+          Tags
+        </span>
+        <span class="article-meta-value">
+          {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+        </span>
+        {{ end }}
+      </div>
+    </div>
+
+    {{ partial "pagination" . }}
+  </div>
+
+</footer>

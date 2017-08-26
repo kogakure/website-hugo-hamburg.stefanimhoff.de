@@ -1,0 +1,41 @@
+.article-meta-published,
+.article-meta-tags {
+  display: inline-block;
+}
+
+.article-meta {
+  @mixin font-playfair-display;
+  margin-bottom: 2.5rem;
+}
+
+.article-meta a {
+  color: $color-white;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.article-meta > div {
+  margin-right: 1rem;
+}
+
+
+.article-meta-label {
+  color: $color-gold;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+
+  &::after {
+    content: ": ";
+  }
+}
+
+.article-meta-value {
+  color: $color-white;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+}

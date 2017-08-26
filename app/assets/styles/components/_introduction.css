@@ -1,0 +1,28 @@
+.introduction {
+  @mixin section-padding;
+  background-color: $color-white;
+  background-image: url(/assets/images/core/map.jpg);
+  background-position: 100% 30%;
+  background-size: cover;
+
+  .wrap {
+    text-align: center;
+  }
+}
+
+.introduction-headline {
+  @mixin section-headline;
+}
+
+.introduction-text {
+  @mixin font-playfair-display;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+
+  @media screen and (width >= 500px) {
+    width: 70%;
+  }
+}

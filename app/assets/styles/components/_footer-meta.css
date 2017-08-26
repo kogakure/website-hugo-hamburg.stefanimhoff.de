@@ -1,0 +1,6 @@
+.footer-meta {
+  background-color: $color-dark-blue;
+  color: $color-white;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
