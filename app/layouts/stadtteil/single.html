@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <article>
+    {{ partial "post-header" . }}
+    <div class="wrap">
+      <section id="content" class="main-content">
+        {{ .Content }}
+      </section>
+    </div>
+    {{ partial "social" . }}
+    {{ partial "footer-meta" . }}
+  </article>
+{{ end }}

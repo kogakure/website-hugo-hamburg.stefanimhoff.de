@@ -1,0 +1,49 @@
+.social {
+  background-color: var(--color-white);
+  padding-bottom: 4em;
+  padding-top: 3.5em;
+
+  & .wrap {
+    text-align: center;
+  }
+}
+
+.social-headline {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  display: inline-block;
+  font-family: 'IM Fell English', serif;
+  font-size: responsive 1rem 2rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  line-height: 1;
+  margin-bottom: 1.2em;
+  margin-top: 0;
+  padding-bottom: 0.5em;
+  text-transform: uppercase;
+}
+
+.social-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  list-style: none;
+  padding: 0;
+}
+
+.social-link {
+  color: var(--color-grey);
+  font-family: 'IM Fell English', serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  line-height: 1;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

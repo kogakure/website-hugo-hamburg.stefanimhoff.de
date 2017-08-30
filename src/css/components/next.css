@@ -1,0 +1,35 @@
+.next {
+  background-color: var(--color-dark-blue);
+  color: var(--color-white);
+  padding-bottom: 4em;
+  padding-top: 3.5em;
+
+  & .wrap {
+    text-align: center;
+  }
+}
+
+.next-headline {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  color: var(--color-gold);
+  display: inline-block;
+  font-family: 'IM Fell English', serif;
+  font-size: responsive 1rem 2rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  line-height: 1;
+  margin-bottom: 1.2em;
+  margin-top: 0;
+  padding-bottom: 0.5em;
+  text-transform: uppercase;
+}
+
+.next-district {
+  font-family: 'IM Fell English', serif;
+  font-size: responsive 0.8rem 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  line-height: 1;
+  margin: 0;
+}

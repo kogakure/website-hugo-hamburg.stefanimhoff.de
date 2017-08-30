@@ -1,0 +1,65 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: var(--body-background-color);
+  font-family: 'IM Fell English', serif;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--color-black);
+  font-family: 'IM Fell English', serif;
+  font-weight: 400;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+.lazyload,
+.lazyloading {
+  opacity: 0;
+}
+
+.lazyloaded {
+  opacity: 1;
+  transition: opacity 300ms;
+}
+
+.fluid-width-video-wrapper iframe {
+  border: 0;
+}
+
+figure {
+  margin: 0;
+}
+
+a {
+  color: var(--color-gold);
+
+  &:hover,
+  &:active,
+  &:focus {
+    color: var(--color-dark-blue);
+  }
+}
+
+.wrap {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 60rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}

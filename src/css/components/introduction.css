@@ -1,0 +1,40 @@
+.introduction {
+  background-color: var(--color-white);
+  background-image: url(/assets/images/core/map.jpg);
+  background-position: 100% 30%;
+  background-size: cover;
+  padding-bottom: 4em;
+  padding-top: 3.5em;
+
+  & .wrap {
+    text-align: center;
+  }
+}
+
+.introduction-headline {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  display: inline-block;
+  font-family: 'IM Fell English', serif;
+  font-size: responsive 1rem 2rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  line-height: 1;
+  margin-bottom: 1.2em;
+  margin-top: 0;
+  padding-bottom: 0.5em;
+  text-transform: uppercase;
+}
+
+.introduction-text {
+  font-family: 'IM Fell English', serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+
+  @media screen and (width >= 500px) {
+    width: 70%;
+  }
+}

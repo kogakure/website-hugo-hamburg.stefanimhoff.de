@@ -1,0 +1,31 @@
+baseurl         = "https://hamburg.stefanimhoff.de/"
+title           = "Exploring Hamburg"
+languageCode    = "de"
+
+metaDataFormat  = "yaml"
+paginate        = 0
+buildDrafts     = true
+buildFuture     = true
+disableKinds    = ["404"]
+enableRobotsTXT = true
+watch           = true
+
+archetypedir  = "app/archetypes"
+contentdir    = "app/content"
+dataDir       = "app/data"
+layoutdir     = "app/layouts"
+staticdir     = "app/static"
+themesdir     = "app/themes"
+publishdir    = "dist"
+
+[taxonomies]
+  tag = "tags"
+
+[blackfriday]
+  smartypants     = false
+  plainIDAnchors  = true
+  hrefTargetBlank = true
+  extensions      = [""]
+
+[permalinks]
+  stadtteil = "/:slug/"

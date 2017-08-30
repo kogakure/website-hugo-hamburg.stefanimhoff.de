@@ -1,0 +1,14 @@
+title = "Exploring Hamburg"
+author = "Stefan Imhoff"
+url = "https://hamburg.stefanimhoff.de"
+
+[statistics]
+distance = 238
+duration = 58
+count = 18
+
+[seo]
+description = "Hamburg entdecken. Straße für Straße, Stadtteil für Stadtteil."
+
+[feeds]
+feedburner_url = "https://feeds.feedburner.com/hamburg-stefanimhoff"

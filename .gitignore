@@ -1,0 +1,4 @@
+app/layouts/partials/critical/critical*.css
+node_modules/
+dist/
+resize/

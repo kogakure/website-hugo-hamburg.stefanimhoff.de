@@ -1,0 +1,41 @@
+.pagination-label {
+  color: var(--color-gold);
+  font-family: 'IM Fell English', serif;
+  font-size: responsive 1rem 1.4rem;
+  line-height: 1;
+}
+
+.pagination-title {
+  display: block;
+  font-family: 'IM Fell English', serif;
+  font-size: responsive 1rem 1.4rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.pagination {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+.pagination-link {
+  color: var(--color-white);
+  text-decoration: none;
+
+  &:hover {
+    color: #5b72ae;
+  }
+}
+
+.pagination-left {
+  text-align: left;
+  width: 50%;
+}
+
+.pagination-right {
+  text-align: right;
+  width: 50%;
+}

@@ -1,0 +1,17 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+  <div class="wrap">
+    <section id="content" class="main-content">
+      <ul>
+        {{ $data := .Data }}
+        {{ range $key, $value := .Data.Terms }}
+        <li>
+          <a href="/{{ $data.Plural }}/{{ $key | urlize }}">
+            {{ $key }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </section>
+  </div>
+{{ end }}

@@ -1,0 +1,33 @@
+/* SVG sprites */
+.svg-icons {
+  left: -9999px;
+  position: absolute;
+  top: -9999px;
+}
+
+.anker-link {
+  display: inline-block;
+  height: 30px;
+  left: 15px;
+  position: absolute;
+  top: 15px;
+  width: 30px;
+  z-index: 1000;
+}
+
+.anker-icon {
+  fill: rgba(#ffffff, 0);
+  height: 30px;
+  width: 30px;
+}
+
+.post-hero:hover,
+.page-hero:hover {
+  & .anker-icon {
+    fill: rgba(#ffffff, 0.85);
+
+    &:hover {
+      fill: var(--color-gold);
+    }
+  }
+}

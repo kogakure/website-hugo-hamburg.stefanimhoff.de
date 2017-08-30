@@ -1,0 +1,19 @@
+/* Critical CSS: Subpages
+ *************************/
+
+@import "vendor/normalize.css";
+@import "settings/colors";
+
+@import "components/base";
+@import "components/footer";
+@import "components/anker";
+
+@import "components/post-hero";
+@import "components/page-hero";
+@import "components/main-content";
+@import "components/social";
+@import "components/article-meta";
+@import "components/footer-meta";
+@import "components/pagination";
+@import "components/map";
+
