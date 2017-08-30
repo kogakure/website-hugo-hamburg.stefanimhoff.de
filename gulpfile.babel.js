@@ -320,17 +320,11 @@ task('server', series('build-dev', () => {
     }
   });
 
-  // watch('src/css/**/*.css', series('css', 'lint-css'));
-  // watch('./src/js/**/*.js', series('js', 'lint-js'));
-  // watch('./app/**/*', series('hugo-dev'));
-  // watch('./config.toml', series('hugo-dev'));
+  watch('src/css/**/*.css', series('css', 'lint-css'));
+  watch('./src/js/**/*.js', series('js', 'lint-js'));
+  watch('./app/**/*', series('hugo-dev'));
+  watch('./config.toml', series('hugo-dev'));
   // watch('./src/svg/*.svg', series('svg'));
-  // watch('app/static/assets/images/recommendations/fullsize/**/*.{jpg,jpeg,png}', series('thumbnails'));
-
-  // gulp.watch(config.hugo, ['hugo:rebuild']);
-  // gulp.watch(config.styles, ['styles', 'lint:styles']);
-  // gulp.watch(config.scripts, ['scripts', 'lint:scripts']);
-  // gulp.watch(config.svg, ['svg']);
 }));
 
 task('default', parallel('server'));
