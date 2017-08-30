@@ -18,6 +18,9 @@ staticdir     = "app/static"
 themesdir     = "app/themes"
 publishdir    = "dist"
 
+[taxonomies]
+  tag = "tags"
+
 [blackfriday]
   smartypants     = false
   plainIDAnchors  = true
@@ -27,20 +30,7 @@ publishdir    = "dist"
 [permalinks]
   stadtteil = "/:slug/"
 
-[taxonomies]
-  tag = "tags"
-
-[[menu.main]]
-  name = "Startseite"
-  url = "/"
-  weight = 0
-[[menu.main]]
-  name = "Impressum"
-  url = "/impressum/"
-  weight = 10
-
 [params]
   criticalcss = false
   tracking    = false
   description = "Hamburg entdecken. Straße für Straße, Stadtteil für Stadtteil."
-  feedburner = "https://feeds.feedburner.com/hamburg-stefanimhoff"

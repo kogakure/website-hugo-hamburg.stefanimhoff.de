@@ -1,4 +1,4 @@
-{{ partial "head/base" . }}
+{{ partial "base" . }}
 
 <body{{ if .IsHome }} class="home"{{ else if isset .Params "body_class" }} class="{{ .Params.body_class }}"{{ end }}>
 

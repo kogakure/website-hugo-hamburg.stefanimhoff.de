@@ -9,13 +9,16 @@
     </div>
     <nav class="footer-navigation">
       <ul class="footer-navigation-list">
-        {{ range .Site.Menus.main }}
         <li class="footer-navigation-item">
-          <a href="{{ .URL }}" class="footer-navigation-link">
-            {{ .Name }}
+          <a href="/" class="footer-navigation-link">
+            Startseite
           </a>
         </li>
-        {{ end }}
+        <li class="footer-navigation-item">
+          <a href="/impressum/" class="footer-navigation-link">
+            Impressum
+          </a>
+        </li>
       </ul>
     </nav>
   </div>

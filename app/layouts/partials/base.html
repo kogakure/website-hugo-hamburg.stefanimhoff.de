@@ -57,7 +57,7 @@
   {{ if (.IsPage) }}
   <meta name="description" content="{{ .Summary }}">
   {{ else }}
-  <meta name="description" content="{{ .Site.Params.description }}">
+  <meta name="description" content="{{ .Site.Data.settings.seo.description }}">
   {{ end }}
 
   <!-- OpenGraph-->
@@ -70,7 +70,7 @@
   {{ if (.IsPage) }}
   <meta property="og:description" content="{{ .Summary }}">
   {{ else }}
-  <meta property="og:description" content="{{ .Site.Params.description }}">
+  <meta property="og:description" content="{{ .Site.Data.settings.seo.description }}">
   {{ end }}
 
   {{ if eq .Section "stadtteil" }}
@@ -97,8 +97,8 @@
   {{ partial "critical" . }}
 
   <!-- Feeds -->
-  <link href="{{ .Site.Params.feedburner }}" rel="alternate" title="{{ .Site.Title }}" type="application/rss+xml">
-  <link href="{{ .Site.Params.feedburner }}" rel="feed" title="{{ .Site.Title }}" type="application/rss+xml">
+  <link href="{{ .Site.Data.settings.feeds.feedburner_url }}" rel="alternate" title="{{ .Site.Data.settings.title }}" type="application/rss+xml">
+  <link href="{{ .Site.Data.settings.feeds.feedburner_url }}" rel="feed" title="{{ .Site.Data.settings.title }}" type="application/rss+xml">
 
   <!-- Generator -->
   {{ .Hugo.Generator }}
