@@ -1,7 +1,8 @@
 .statistics {
-  @mixin section-padding;
-  background-color: $color-grey;
-  color: $color-white;
+  background-color: var(--color-grey);
+  color: var(--color-white);
+  padding-bottom: 4em;
+  padding-top: 3.5em;
 
   .wrap {
     text-align: center;
@@ -9,8 +10,19 @@
 }
 
 .statistics-headline {
-  @mixin section-headline;
-  color: $color-white;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  color: var(--color-white);
+  display: inline-block;
+  font-family: 'IM Fell English', serif;
+  font-size: responsive 1rem 2rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  line-height: 1;
+  margin-bottom: 1.2em;
+  margin-top: 0;
+  padding-bottom: 0.5em;
+  text-transform: uppercase;
 }
 
 .statistics-container {
@@ -26,15 +38,15 @@
 }
 
 .statistics-key {
-  @mixin font-im-fell-english;
-  color: $color-gold;
+  color: var(--color-gold);
+  font-family: 'IM Fell English', serif;
   font-size: responsive 1.2rem 2.5rem;
   line-height: 1;
   order: 1;
 }
 
 .statistics-value {
-  @mixin font-im-fell-english;
+  font-family: 'IM Fell English', serif;
   font-size: responsive 1.5rem 3.5rem;
   font-weight: 700;
   letter-spacing: 0.08em;

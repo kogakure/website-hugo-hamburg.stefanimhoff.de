@@ -16,7 +16,7 @@
 }
 
 .anker-icon {
-  fill: rgba($color-white, 0);
+  fill: rgba(#ffffff, 0);
   height: 30px;
   width: 30px;
 }
@@ -24,10 +24,10 @@
 .post-hero:hover,
 .page-hero:hover {
   .anker-icon {
-    fill: rgba($color-white, 0.85);
+    fill: rgba(#ffffff, 0.85);
 
     &:hover {
-      fill: $color-gold;
+      fill: var(--color-gold);
     }
   }
 }

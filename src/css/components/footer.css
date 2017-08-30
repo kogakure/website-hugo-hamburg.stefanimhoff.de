@@ -1,7 +1,7 @@
 .footer {
-  @mixin font-playfair-display;
-  background-color: $color-very-dark-blue;
-  color: $color-white;
+  background-color: var(--color-very-dark-blue);
+  color: var(--color-white);
+  font-family: 'Playfair Display', serif;
   font-size: 0.85rem;
   padding: 1rem;
 
@@ -26,12 +26,12 @@
 }
 
 .footer-legal-link {
-  color: $color-white;
+  color: var(--color-white);
 
   &:hover,
   &:active,
   &:focus {
-    color: $color-gold;
+    color: var(--color-gold);
   }
 }
 
@@ -47,11 +47,11 @@
 }
 
 .footer-navigation-link {
-  color: $color-white;
+  color: var(--color-white);
 
   &:hover,
   &:active,
   &:focus {
-    color: $color-gold;
+    color: var(--color-gold);
   }
 }

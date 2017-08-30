@@ -1,14 +1,11 @@
-<!DOCTYPE html>
-
-<html lang="{{ if isset .Params "language" }}{{ .Params.language }}{{ else }}{{ .Site.LanguageCode }}{{ end }}">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>
     {{ if .IsHome }}
-      {{ .Site.Title }}
+      {{ .Site.Data.settings.title }}
     {{ else }}
-      {{ .Title | plainify }} - {{ .Site.Title }}
+      {{ .Title | plainify }} - {{ .Site.Data.settings.title }}
     {{ end}}
   </title>
 
@@ -19,7 +16,7 @@
 
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="{{ .Site.Title }}">
+  <meta name="apple-mobile-web-app-title" content="{{ .Site.Data.settings.title }}">
 
   <meta name="format-detection" content="telephone=no">
   <meta name="format-detection" content="address=no">
@@ -63,9 +60,9 @@
   <!-- OpenGraph-->
   <meta property="og:url" content="{{ .Permalink }}">
   {{ if .IsHome }}
-  <meta property="og:title" content="{{ .Site.Title }}">
+  <meta property="og:title" content="{{ .Site.Data.settings.title }}">
   {{ else }}
-  <meta property="og:title" content="{{ .Title | plainify }} - {{ .Site.Title }}">
+  <meta property="og:title" content="{{ .Title | plainify }} - {{ .Site.Data.settings.title }}">
   {{ end }}
   {{ if (.IsPage) }}
   <meta property="og:description" content="{{ .Summary }}">
@@ -93,8 +90,8 @@
   <!-- Canonical -->
   <link rel="canonical" href="{{ .Permalink }}">
 
-  <!-- Critical CSS -->
-  {{ partial "critical" . }}
+  <!-- Stylesheets -->
+  {{ partial "styles" . }}
 
   <!-- Feeds -->
   <link href="{{ .Site.Data.settings.feeds.feedburner_url }}" rel="alternate" title="{{ .Site.Data.settings.title }}" type="application/rss+xml">
@@ -112,13 +109,11 @@
     {
       "@context": "http://schema.org",
       "@type": "WebSite",
-      "name": "{{ .Site.Title }}",
+      "name": "{{ .Site.Data.settings.title }}",
       "url": "https://hamburg.stefanimhoff.de"
     }
   </script>
 
   <!-- Statistics -->
-  {{ if .Site.Params.tracking }}
-  {{ partial "head/tracking" . }}
-  {{ end }}
+  {{ partial "tracking" . }}
 </head>

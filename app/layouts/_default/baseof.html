@@ -1,4 +1,7 @@
-{{ partial "base" . }}
+<!DOCTYPE html>
+
+<html lang="{{ if isset .Params "language" }}{{ .Params.language }}{{ else }}{{ .Site.LanguageCode }}{{ end }}">
+  {{ partial "head" . }}
 
 <body{{ if .IsHome }} class="home"{{ else if isset .Params "body_class" }} class="{{ .Params.body_class }}"{{ end }}>
 

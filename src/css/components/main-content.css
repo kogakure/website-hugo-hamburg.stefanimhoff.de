@@ -1,5 +1,5 @@
 .main-content {
-  @mixin font-playfair-display;
+  font-family: 'Playfair Display', serif;
   padding-bottom: 1rem;
   padding-top: 0.5rem;
 

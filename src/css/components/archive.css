@@ -1,5 +1,5 @@
 .archive {
-  background-color: $color-grey;
+  background-color: var(--color-grey);
   clear: both;
 }
 
@@ -55,7 +55,7 @@
 }
 
 .archive-layer {
-  background: $color-black;
+  background: var(--color-black);
   cursor: pointer;
   margin: 0;
   overflow: hidden;
@@ -83,8 +83,8 @@
 }
 
 .archive-info-headline {
-  @mixin font-im-fell-english;
-  color: $color-white;
+  color: var(--color-white);
+  font-family: 'IM Fell English', serif;
   font-size: responsive 1rem 1.3rem;
   font-weight: 700;
   letter-spacing: 0.15em;
@@ -97,7 +97,7 @@
 }
 
 .touch .archive-info-headline {
-  background-color: $color-black;
+  background-color: var(--color-black);
   display: inline-block;
   opacity: 1;
   padding: 5px;
@@ -105,8 +105,8 @@
 }
 
 .archive-info-meta {
-  @mixin font-im-fell-english;
-  color: $color-gold;
+  color: var(--color-gold);
+  font-family: 'IM Fell English', serif;
   font-size: 1.3rem;
   font-weight: 700;
   line-height: 1;
@@ -118,7 +118,7 @@
 
 .archive-info {
   backface-visibility: hidden;
-  color: $color-white;
+  color: var(--color-white);
   height: 100%;
   left: 0;
   padding: 8% 5%;

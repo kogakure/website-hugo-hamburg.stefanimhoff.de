@@ -1,8 +1,10 @@
-$color-very-dark-blue: #1e2433;
-$color-dark-blue: #253358;
-$color-gold: #c19755;
-$color-grey: #42413f;
-$color-white: #ffffff;
-$color-black: #000000;
+:root {
+  --color-very-dark-blue: #1e2433;
+  --color-dark-blue: #253358;
+  --color-gold: #c19755;
+  --color-grey: #42413f;
+  --color-white: #ffffff;
+  --color-black: #000000;
 
-$body-background-color: #f7f7f7;
+  --body-background-color: #f7f7f7;
+}

@@ -1,13 +1,13 @@
 .pagination-label {
-  @mixin font-im-fell-english;
-  color: $color-gold;
+  color: var(--color-gold);
+  font-family: 'IM Fell English', serif;
   font-size: responsive 1rem 1.4rem;
   line-height: 1;
 }
 
 .pagination-title {
-  @mixin font-im-fell-english;
   display: block;
+  font-family: 'IM Fell English', serif;
   font-size: responsive 1rem 1.4rem;
   font-weight: 700;
   letter-spacing: 0.15em;
@@ -22,7 +22,7 @@
 }
 
 .pagination-link {
-  color: $color-white;
+  color: var(--color-white);
   text-decoration: none;
 
   &:hover {

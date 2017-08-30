@@ -1,5 +1,5 @@
 .hero {
-  background-color: $color-dark-blue;
+  background-color: var(--color-dark-blue);
   background-image: url(/assets/images/core/homepage-hero.jpg);
   background-position: 30% 50%;
   background-size: cover;
@@ -14,7 +14,7 @@
 }
 
 .hero-cover {
-  background: linear-gradient(to bottom, rgba($color-black, 0) 0%, rgba($color-black, 0) 40%, rgba($color-black, 1) 100%);
+  background: linear-gradient(to bottom, rgba(#000000, 0) 0%, rgba(#000000, 0) 40%, rgba(#000000, 1) 100%);
   bottom: 0;
   height: 100vh;
   left: 0;
@@ -32,7 +32,7 @@
 
   &::before,
   &::after {
-    background: rgba($color-white, 0.3);
+    background: rgba(#ffffff, 0.3);
     content: "";
     height: 2px;
     left: 0;
@@ -53,17 +53,17 @@
 }
 
 .hero-movement {
-  @mixin font-im-fell-english;
-  color: $color-gold;
+  color: var(--color-gold);
   display: block;
+  font-family: 'IM Fell English', serif;
   font-size: responsive 2.75rem 5.5rem;
   font-style: italic;
   line-height: 0.7;
 }
 
 .hero-city {
-  @mixin font-im-fell-english;
-  color: $color-white;
+  color: var(--color-white);
+  font-family: 'IM Fell English', serif;
   font-size: responsive 2rem 4rem;
   font-weight: 700;
   letter-spacing: 0.15em;
