@@ -5,7 +5,7 @@
   background-size: cover;
   height: 100vh;
 
-  .wrap {
+  & .wrap {
     height: 100vh;
     padding: 0;
     position: relative;

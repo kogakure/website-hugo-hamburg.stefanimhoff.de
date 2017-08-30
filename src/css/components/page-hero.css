@@ -5,7 +5,7 @@
   background-size: cover;
   height: 30vh;
 
-  .wrap {
+  & .wrap {
     height: 30vh;
     position: relative;
     text-align: center;

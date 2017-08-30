@@ -6,7 +6,7 @@
   padding-bottom: 4em;
   padding-top: 3.5em;
 
-  .wrap {
+  & .wrap {
     text-align: center;
   }
 }

@@ -5,7 +5,7 @@
   height: 100vh;
   position: relative;
 
-  .wrap {
+  & .wrap {
     height: 100vh;
     position: relative;
     text-align: center;

@@ -23,7 +23,7 @@
 
 .post-hero:hover,
 .page-hero:hover {
-  .anker-icon {
+  & .anker-icon {
     fill: rgba(#ffffff, 0.85);
 
     &:hover {

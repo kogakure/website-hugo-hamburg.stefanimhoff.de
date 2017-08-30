@@ -20,6 +20,8 @@ import cssImport from 'postcss-import';
 import cssnext from 'postcss-cssnext';
 import hexRGBA from 'postcss-hexrgba';
 import reporter from 'postcss-reporter';
+import responsiveType from 'postcss-responsive-type';
+import lost from 'lost';
 
 import { output as pagespeed } from 'psi';
 
@@ -105,6 +107,8 @@ task('css', () => {
           }
         },
       }),
+      responsiveType(),
+      lost(),
       hexRGBA()
     ]))
     .pipe($.sourcemaps.write('.'))
