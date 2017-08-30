@@ -1,9 +1,21 @@
 [build]
-  command = "yarn build"
-  publish = "build/production"
+  command = "yarn run build"
+  publish = "dist"
+
+[build.environment]
+  HUGO_VERSION = "0.26"
+
+[context.production.environment]
+  HUGO_VERSION = "0.26"
+
+[context.deploy-preview]
+  command = "yarn run build-preview"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.20"
+  HUGO_VERSION = "0.26"
 
-[context.production.enviroment]
-  HUGO_VERSION = "0.20"
+[context.branch-deploy]
+  command = "yarn run build-branch"
+
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.26"
