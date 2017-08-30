@@ -1,5 +1,4 @@
 ---
-layout: page
 language: "de"
 title: "Impressum"
 description: "Das Impressum mit Ansprechpartner, Rechtshinweisen, Datenschutzhinweisen und Quellenangaben zu verwendeten Grafiken und Fotos."
