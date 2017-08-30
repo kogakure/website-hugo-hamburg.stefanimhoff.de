@@ -52,7 +52,7 @@ $ yarn run lint-css      # Check CSS for errors
 
 ## Licence
 
-All content is copyrighted by [Stefan Imhoff] unless otherwise stated. Feel free to learn from the source code and reuse code for your projects. The only thing which is not allowed is the usage of my design (the unique combination of layout, fonts, images), private photos and logo.
+All content is copyrighted by [Stefan Imhoff] unless otherwise stated. Feel free to learn from the source code and reuse code for your projects. The only thing which is not allowed is the usage of my design (the unique combination of layout, fonts, images).
 
 In easier words: **This is not a free theme**. Learn from it. Remix. Reuse. Build your own stuff.
 
