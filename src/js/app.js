@@ -2,7 +2,7 @@ import 'lazysizes';
 import fitvids from 'fitvids';
 import fastclick from 'fastclick';
 
-import { isTouchDevice } from './libs/is-touch-device';
+import {isTouchDevice} from './libs/is-touch-device';
 
 if ('querySelector' in document && 'addEventListener' in window) {
   document.addEventListener('DOMContentLoaded', function() {
@@ -14,7 +14,7 @@ if ('querySelector' in document && 'addEventListener' in window) {
 
     // Add body class for touch devices
     if (isTouchDevice()) {
-      document.getElementsByTagName("BODY")[0].classList.add("touch");
+      document.getElementsByTagName('BODY')[0].classList.add('touch');
     }
   });
 }
