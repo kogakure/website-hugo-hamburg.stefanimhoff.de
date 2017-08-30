@@ -193,7 +193,7 @@ task('loadcss', () => {
  * Copy critical CSS files to project folder
  */
 task('criticalcss', () => {
-  return src(`${distDir}/assets/css/critical_*.css`)
+  return src(`${distDir}/assets/css/critical*.css`)
     .pipe(dest('app/layouts/partials/critical/'));
 });
 
