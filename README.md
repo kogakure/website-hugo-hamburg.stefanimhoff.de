@@ -1,64 +1,62 @@
+[![Live](https://img.shields.io/badge/live-hamburg.stefanimhoff.de-green.svg)](https://hamburg.stefanimhoff.de/)
+![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)
+![GitHub tag](https://img.shields.io/github/tag/kogakure/website-hugo-hamburg.stefanimhoff.de.svg)
+
 # hamburg.stefanimhoff.de
 
-This is the source of my Hamburg [travel blog](https://hamburg.stefanimhoff.de/) build with [Hugo](http://gohugo.io/) and [Gulp.js](http://gulpjs.com/).
+This is the source of my Hamburg [travel blog] build with [Hugo] and [Gulp.js].
 
 ## Installation
 
-You will need [Hugo](http://gohugo.io/) to run this website (e. g. with Homebrew):
+You will need [Hugo] to run this website (e. g. with Homebrew):
 
 ```bash
 $ brew install hugo
 ```
 
-You will also need [Node.js](http://nodejs.org/) to run the Gulp tasks and build process:
+You will also need [Node.js] to run the Gulp tasks and build process:
 
-```bash
+``` {.bash}
 $ git clone https://github.com/creationix/nvm.git ~/.nvm
 $ cd ~/.nvm
 $ git checkout `git describe --abbrev=0 --tags`
-$ nvm install 4.4.1
+$ nvm install 6.3.1
 ```
+
+I recommend using \[Yarn\]\[yarn\], otherwise replace all occurrences of `yarn` with `npm`.
 
 After cloning the repository run:
 
 ```bash
-$ yarn
+$ yarn install
 ```
 
-## Running the website
+## Tasks
 
-The development enviroment is driven by Gulp.js. I have written these npm run tasks:
+These tasks are provided:
 
 ```bash
-$ yarn run dev
-$ yarn run preview
-$ yarn run build
-$ yarn run responsive
+$ yarn start             # Run development server and create development build
+$ yarn run build         # Create production build
+$ yarn run build-preview # Create preview build
+$ yarn run build-branch  # Create branch build
+$ yarn run build-dev     # Create development build
+$ yarn run crunch        # Minimize all images
+$ yarn run loadcss       # Copy loadCSS JavaScript to project
+$ yarn run pagespeed     # Perform PageSpeed Insights against live website
+$ yarn run lint          # Check JavaScript and CSS for errors
+$ yarn run lint-js       # Check JavaScript for errors
+$ yarn run lint-css      # Check CSS for errors
 ```
 
-- To start the development enviroment run `yarn run dev`.
-- To build and preview a produciton build run `yarn run preview`.
-- To build a production build run `yarn run build`.
-- To create responsive images, crunsh images first and run `yarn run responsive`.
-
-The developement server will run on [http://0.0.0.0:7777/](http://0.0.0.0:7777/).
-
-The production server will run on [http://0.0.0.0:7776/](http://0.0.0.0:7776/).
-
-## Stuff I use on my website
-
-These are just some of the tools, packages, languages and stuff I used to build my website:
-
-- [Hugo](http://gohugo.io/) to build the static website.
-- [Node.js](http://nodejs.org/) to run Gulp.js, Bower and other tools
-- [Gulp.js](http://gulpjs.com/) to run the development enviroment and create builds.
-- [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)
-- [Browserify](http://browserify.org/) to use CommonJS modules.
-- [BrowserSync](http://www.browsersync.io/) to have live reload and syning of actions.
-- [PostCSS](https://github.com/postcss/postcss)
-- [LostGrid](https://github.com/corysimmons/lost) to build the awesome Grid of my website.
-
 ## Licence
-All content is copyrighted by [Stefan Imhoff](http://stefanimhoff.de) unless otherwise stated. Feel free to learn from the source code and reuse code for your projects. The only thing which is not allowed is the usage of my design (the unique combination of layout, fonts, images), private photos and logo.
+
+All content is copyrighted by [Stefan Imhoff] unless otherwise stated. Feel free to learn from the source code and reuse code for your projects. The only thing which is not allowed is the usage of my design (the unique combination of layout, fonts, images), private photos and logo.
 
 In easier words: **This is not a free theme**. Learn from it. Remix. Reuse. Build your own stuff.
+
+  [travel blog]: https://hamburg.stefanimhoff.de/
+  [Hugo]: http://gohugo.io/
+  [Gulp.js]: http://gulpjs.com/
+  [Node.js]: http://nodejs.org/
+  [Stefan Imhoff]: http://stefanimhoff.de
