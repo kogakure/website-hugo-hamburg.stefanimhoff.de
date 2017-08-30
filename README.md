@@ -41,6 +41,7 @@ $ yarn run build         # Create production build
 $ yarn run build-preview # Create preview build
 $ yarn run build-branch  # Create branch build
 $ yarn run build-dev     # Create development build
+$ yarn run svg           # Create SVG sprite from single SVG files
 $ yarn run crunch        # Minimize all images
 $ yarn run loadcss       # Copy loadCSS JavaScript to project
 $ yarn run pagespeed     # Perform PageSpeed Insights against live website

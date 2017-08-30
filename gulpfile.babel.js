@@ -168,6 +168,27 @@ task('lint-js', () => {
 });
 
 /**
+ * Create SVG sprite map from SVG files
+ */
+task('svg', () => {
+  return src('src/svg/*.svg')
+    .pipe($.plumber())
+    .pipe($.svgSprite({
+      mode: {
+        symbol: {
+          dest: 'svg',
+          sprite: 'icons.svg'
+        },
+        svg: {
+          xmlDeclaration: false,
+          doctypeDeclaration: false
+        }
+      }
+    }))
+    .pipe(dest('app/layouts/partials'));
+});
+
+/**
  * Optimize and minimize images
  */
 task('optimize-images', () => {
@@ -328,7 +349,7 @@ task('server', series('build-dev', () => {
   watch('./src/js/**/*.js', series('js', 'lint-js'));
   watch('./app/**/*', series('hugo-dev'));
   watch('./config.toml', series('hugo-dev'));
-  // watch('./src/svg/*.svg', series('svg'));
+  watch('./src/svg/*.svg', series('svg'));
 }));
 
 task('default', parallel('server'));
