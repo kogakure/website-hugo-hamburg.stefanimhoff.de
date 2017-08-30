@@ -189,6 +189,44 @@ task('svg', () => {
 });
 
 /**
+ * Create responsive images
+ */
+task('responsive', () => {
+  return src('app/static/assets/images/{map,stadtteile,hero}/*.jpg')
+    .pipe($.changed('resize/'))
+    .pipe(dest('resize/'))
+    .pipe($.responsive({
+      '{map,stadtteile}/*.jpg': [
+        {
+          width: 350,
+          rename: { suffix: '-350px' }
+        },
+        {
+          width: 500,
+          rename: { suffix: '-500px' }
+        },
+        {
+          width: 750,
+          rename: { suffix: '-750px' }
+        }
+      ],
+      'hero/*.jpg': [
+        {
+          width: 450,
+          rename: { suffix: '-450px' }
+        }
+      ]
+    }, {
+      progressive: true,
+      quality: 70,
+      compressionLevel: 6,
+      withMetadata: false,
+      errorOnUnusedConfig: false
+    }))
+    .pipe(dest('app/static/assets/images/responsive/'));
+});
+
+/**
  * Optimize and minimize images
  */
 task('optimize-images', () => {

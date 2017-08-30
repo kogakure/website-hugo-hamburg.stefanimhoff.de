@@ -12,6 +12,7 @@
     "build-branch": "gulp build-branch",
     "build-dev": "gulp build-dev",
     "svg": "gulp svg",
+    "responsive": "gulp responsive",
     "crunch": "gulp optimize-images",
     "loadcss": "gulp loadcss",
     "pagespeed": "gulp pagespeed",
