@@ -3,13 +3,13 @@
     {{ range where .Data.Pages "Type" "stadtteil" }}
       <li class="archive-item">
         <div class="archive-layer">
-          <img src="/assets/images/responsive/hero/{{ .Slug }}-450px.jpg" class="archive-image" alt="">
+          <img src="/assets/images/responsive/hero/{{ .Slug }}-450px.jpg" class="archive-image" alt="{{ .Title }}">
           <div class="archive-info">
             <h3 class="archive-info-headline">
               {{ .Title }}
             </h3>
             <h4 class="archive-info-meta">
-              {{ .Params.distance }} km · {{ .Params.duration }} Std.
+              {{ .Params.distance }} km · {{ .Params.duration }} hrs.
             </h4>
             <a class="archive-link" href="{{ .RelPermalink }}"></a>
           </div>
