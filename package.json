@@ -80,7 +80,7 @@
     "postcss-reporter": "^1.4.1",
     "postcss-responsive-type": "^0.4.0",
     "psi": "^3.0.0",
-    "stylelint": "7.1.0",
+    "stylelint": "^8.0.0",
     "stylelint-order": "^0.8.0",
     "webpack": "^2.6.0"
   },
