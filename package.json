@@ -83,7 +83,6 @@
     "webpack": "^2.6.0"
   },
   "dependencies": {
-    "fastclick": "^1.0.6",
     "fitvids": "^2.0.0",
     "lazysizes": "^2.0.2"
   },
