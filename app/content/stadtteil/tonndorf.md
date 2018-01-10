@@ -6,25 +6,25 @@ date: 2015-06-14T18:00:00+02:00
 distance: 14,91
 duration: 3:32
 tags:
-- Denkmal
-- Friedhof
-- Gewerbegebiet
-- Kleingarten
-- Wald
-- Wasser
+- monument
+- graveyard
+- industrial
+- garden
+- forst
+- water
 ---
 
-In Tonndorf befindet sich die *Bio-Bäckerei Springer*, wo es fantastisch nach frischem Brot und Backwaren riecht. Gegenüber befindet sich eine großer Bürokomplex, in dem Firmen wie *Stressless* oder auch Otto Büros haben.
+In Tonndorf there is the *Bio-Bäckerei Springer* (an organic backery), where it smells fantastic of fresh bread and baked goods. Opposite is alarge office complex where companies like *Stressless* or Otto have offices.
 
 {{< image src="stadtteile/tonndorf-01" alt="Bürokomplex in Tonndorf" width="1000" >}}
 
-Südlich des *Friedrich-Ebert-Damm* gibt es ein Wohngebiet, was wenig gepflegt ist. Alles ist mit Moos bewachsen, sogar die Straßenschilder. Die Grundstücke sind oft mit Grün überwachsen und sehen vernachlässigt aus. Die Fußwege sind schlecht, oft kaum richtig zu Fuß zu begehen.
+South of *Friedrich-Ebert-Damm* there is a residental area, which is poorly maintained. Everything is overgrown with moss, even the street signs. The properties are often overgrown with green and look neglected. The sidewalks are in bad condition, often difficult to walk properly.
 
-Noch weiter südlich befindet sich überwiegend Industrie und Gewerbe. Alles ist ziemlich trostlos, ungepflegt und hässlich. Es gibt unzählige Gelände mit Industrie für Auto (Auto-Reparatur, Reifenhandel). Und ein Gewerbegelände für Schienenbedarf.
+Even further south are mainly industry and commerce properties. Everything is pretty bleak, unkempt and ugly. There are countless properties with industry for car (auto repair, tire trade). And a commercial plot for rail needs.
 
 {{< image src="stadtteile/tonndorf-02" alt="Gewerbegelände" width="1000" caption="Man kann Schienen mieten? Sachen gibt’s …" >}}
 
-Im Wald zwischen *Rahlau* und *Wandse* ist es ruhig und schön. Dort befindet sich eine *KZ-Gedenkstätte* für ca. 500 Frauen des *KZ Drägerwerk*, die dort gefangen waren. Mehrere Frauen wurden misshandelt und eine sogar getötet, weil man ihr angebliche Sabotage vorwarf (ihr war eine Gasmaske heruntergefallen).
+In the forst between *Rahlau* and *Wandse* it is quiet and beautiful. There is a *concentration camp memorial* for about 500 women of *KZ Drägerwerk*, who where imprisoned here. Serveral women were abused and one killed for allegedly sabotaging property (she had dropped a gas mask).
 
 {{< image src="stadtteile/tonndorf-03" alt="KZ-Gedenkstätte Drägerwerk" width="1000" >}}
 
@@ -32,11 +32,11 @@ Im Wald zwischen *Rahlau* und *Wandse* ist es ruhig und schön. Dort befindet si
 
 {{< image src="stadtteile/tonndorf-05" alt="KZ-Gedenkstätte Drägerwerk" width="1000" >}}
 
-Auf dem *Friedhof Tonndorf* gibt es sehr alte Gräber, viele Soldaten des 2. Weltkrieges und einige größere Grabanlagen für Familien.
+At the cementery Tonndorf there are very old graves, many for soldiers of the 2nd World War and some large graves for whole families.
 
 {{< image src="stadtteile/tonndorf-06" alt="Friedhof Tonndorf" width="1125" height="1500" >}}
 
-Südlich der Gleise ist überwiegend Industriegelände (Kostümverleih, Autohäuser, THW-Gelände). Es gibt ein riesiges Gelände, was wie ausgestorben aussieht, welches der Bundeswehr gehört. Es ist ein Entsorgungslager und ist gut gesichert.
+South of the tracks are mostly industrial properties (costume rental, car dealers). There is a huge area, which looks like abandoned, and belongs to the Bundeswehr. It is a disposal warehouse and is well secured.
 
 {{< image src="stadtteile/tonndorf-07" alt="Bahnübergang" width="1000" caption="Bahnübergang. Hier muss man wirklich sehr oft und sehr lange warten." >}}
 
@@ -46,11 +46,11 @@ Südlich der Gleise ist überwiegend Industriegelände (Kostümverleih, Autohäu
 
 {{< image src="stadtteile/tonndorf-10" alt="Entsorgungslager der Bundeswehr" width="1000" caption="Mitten in Tonndorf: Ein Entsorgungslager der Bundeswehr. Was hier wohl entsorgt wird? Gut gesichert ist es jedenfalls." >}}
 
-Nahe des Bahnhofs Hamburg-Tonndorf befindet sich das *Studio Hamburg* und ein großes Einkaufszentrum. Östlich davon befindet sich wieder Wohngebiet, überwiegen Einzelhäuser, sehr klein, z. T. etwas verwittert, zwischendurch aber auch gepflegte Häuser und ein paar Neubauten. Nördlich der Gleise sieht es ähnlich aus.
+Near the train station Hamburg-Tonndorf is the *Studio Hamburg* and a large shopping center. East of it is again residential area, predominate individual houses, very small, partly timeworn, in between but also well-kept houses and a few new buildings. North of the tracks it looks similar.
 
 {{< image src="stadtteile/tonndorf-11" alt="Studio Hamburg" width="1000" caption="Das Studio Hamburg, die haben eine Menge Antennen und Satelliten-Schüsseln auf dem Dach." >}}
 
-Am *Ostender Teich* befindet sich ein Freibad, das Tor war offen und ich konnte einfach so hineingehen. Es gibt einen kleinen Strand und einen Bereich, in dem man schwimmen kann.
+At the *Ostender Teich* is an outdoor pool, the gate was open and I could just go in there. There is a small beach and an area where you can swim.
 
 {{< image src="stadtteile/tonndorf-12" alt="Ostender Teich" width="1000" >}}
 
@@ -58,13 +58,13 @@ Am *Ostender Teich* befindet sich ein Freibad, das Tor war offen und ich konnte 
 
 {{< image src="stadtteile/tonndorf-14" alt="Ostender Teich" width="1000" >}}
 
-Nördlich der *Wandse* befinden sich 3-5-stöckige Häuser, einige sehr neu und äußerst hübsch. Eine nagelneue Wohnanlage ist gerade am Bau, die direkt am Wald liegt.
+North of the *Wandse* are 3- to 5-storey houses, some very new and extremely pretty. A brand new condominium is currently under construction right next to the forest.
 
 {{< image src="stadtteile/tonndorf-15" alt="Wohngebiet nördlich der Wandse" width="1000" >}}
 
 {{< image src="stadtteile/tonndorf-16" alt="Wohngebiet nördlich der Wandse" width="1000" >}}
 
-Um die *Pohlmannteiche* befinden sich wieder Kleingartenanlagen, ein Zugang zu den Seen ist nur Besitzern möglich (*Strandpark Ziegelsee*).
+Around the *Pohlmannteiche* are again small gardens, access to the lakes is only possible for owners (*Strandpark Ziegelsee*).
 
 {{< image src="stadtteile/tonndorf-17" alt="Strandpark Ziegelsee: Wer in diesem Kleingartenverein ein Grundstück sein Eigen nennt, hat exklusiven Zugang zu einigen wunderschönen Seen." width="1125" height="1500" caption="Strandpark Ziegelsee: Wer in diesem Kleingartenverein ein Grundstück sein Eigen nennt, hat exklusiven Zugang zu einigen wunderschönen Seen." >}}
 

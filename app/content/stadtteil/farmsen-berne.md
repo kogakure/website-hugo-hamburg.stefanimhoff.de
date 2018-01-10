@@ -6,12 +6,12 @@ date: 2015-06-07T18:00:00+02:00
 distance: 16,27
 duration: 3:18
 tags:
-- Familie
-- Kleingarten
-- Natur
-- Ruhe
-- Wald
-- Wasser
+- family
+- garden
+- nature
+- quiet
+- forest
+- water
 ---
 
 Farmsen-Berne has a lot of *small garden clubs*, north of *Luisenhof* are mostly 3-storey estates, moderately pretty, but mostly quiet.
@@ -38,7 +38,7 @@ The *Berner Gutspark* is extremly well maintained and the most beautiful park in
 
 The route along the metro line has mostly 3- or 4-story settlements.
 
-There is a lot of green and tranquility, good jogging trails along *Berner Au*. Many playgrounds, sports fields, adventure playgrounds and construction play grounds.
+There is a lot of green and peacefulness, good jogging trails along *Berner Au*. Many playgrounds, sports fields, adventure playgrounds and construction play grounds.
 
 {{< image src="stadtteile/farmsen-berne-06" alt="Abenteuerspielplätze und Bauspielpätze im Wald" width="1000" >}}
 
