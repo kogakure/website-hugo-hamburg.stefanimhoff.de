@@ -43,4 +43,3 @@ Es gibt die *Linne-Kampfbahn*, einen Sportplatz mit rotem Belag. Über den Alten
 
 <iframe class="map" src="https://www.google.com/maps/d/u/0/embed?mid=1AnMqAxAuujp1SmoHMmTPpfvPCfQ" width="1000" height="500">
 </iframe>
-

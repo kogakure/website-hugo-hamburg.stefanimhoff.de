@@ -1,29 +1,29 @@
 {{ if or (.PrevInSection) (.NextInSection) }}
-  <div class="pagination">
-      <div class="pagination-left">
-        {{ if .PrevInSection }}
-          <a class="pagination-link" href="{{ .PrevInSection.Permalink }}">
-            <span class="pagination-label">
-              Previous District
-            </span>
-            <span class="pagination-title">
-              {{ .PrevInSection.Title }}
-            </span>
-          </a>
-        {{ end }}
-      </div>
-
-      <div class="pagination-right">
-        {{ if .NextInSection }}
-          <a class="pagination-link" href="{{ .NextInSection.Permalink }}">
-            <span class="pagination-label">
-              Next District
-            </span>
-            <span class="pagination-title">
-              {{ .NextInSection.Title }}
-            </span>
-          </a>
-        {{ end }}
-      </div>
+<div class="pagination">
+  <div class="pagination-left">
+    {{ if .PrevInSection }}
+    <a class="pagination-link" href="{{ .PrevInSection.Permalink }}">
+      <span class="pagination-label">
+        {{ T "paginationPrevious" }}
+      </span>
+      <span class="pagination-title">
+        {{ .PrevInSection.Title }}
+      </span>
+    </a>
+    {{ end }}
   </div>
+
+  <div class="pagination-right">
+    {{ if .NextInSection }}
+    <a class="pagination-link" href="{{ .NextInSection.Permalink }}">
+      <span class="pagination-label">
+        {{ T "paginationNext" }}
+      </span>
+      <span class="pagination-title">
+        {{ .NextInSection.Title }}
+      </span>
+    </a>
+    {{ end }}
+  </div>
+</div>
 {{ end }}

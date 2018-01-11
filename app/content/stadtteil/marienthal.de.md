@@ -53,4 +53,3 @@ Nahe des Bahnhofs Wandsbek gibt es eine bizarre Verkehrsführung: Eine Unterfü
 
 <iframe class="map" src="https://www.google.com/maps/d/u/0/embed?mid=1-lfaf5JwRwenBQ5K5bkhn2OPlmQ" width="1000" height="500">
 </iframe>
-

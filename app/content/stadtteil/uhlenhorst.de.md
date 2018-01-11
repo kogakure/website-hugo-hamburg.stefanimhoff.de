@@ -132,4 +132,3 @@ Ziel meiner Tour war wieder die U-Bahnstation *Mundsburg*.
 
 <iframe class="map" src="https://www.google.com/maps/d/u/0/embed?mid=1L2qKPLoC_tKlOo3ZKlu8iKEvYpU" width="1000" height="500">
 </iframe>
-
