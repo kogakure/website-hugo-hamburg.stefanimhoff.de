@@ -85,4 +85,3 @@ Nach Norden vorbei an Staples und Kentucky Fried Chicken. Weiter durch ein paar 
 
 <iframe class="map" src="https://www.google.com/maps/d/u/0/embed?mid=1hN1sxADZkZP93w3CgHGzvs9HoLg" width="1000" height="500">
 </iframe>
-

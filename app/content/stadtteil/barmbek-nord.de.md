@@ -122,4 +122,3 @@ Westlich der Klinik befindet sich die *S-Bahn-Station Rübenkamp*, wo ich meine 
 
 <iframe class="map" src="https://www.google.com/maps/d/u/0/embed?mid=1yyBpChXiQJCHMY7Q8DfQbNAat5I" width="1000" height="500">
 </iframe>
-

@@ -78,4 +78,3 @@ Around the *Pohlmannteiche* are again small gardens, access to the lakes is only
 
 <iframe class="map" src="https://www.google.com/maps/d/u/0/embed?mid=15seOWRQJj3cIfHjq74xqjrgD7Mg" width="1000" height="500">
 </iframe>
-

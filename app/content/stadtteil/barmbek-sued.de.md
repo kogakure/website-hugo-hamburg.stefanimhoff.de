@@ -100,4 +100,3 @@ Dann vorbei am *Denkmal für die verhungerten Barmbeker und Flüchtlinge der Fra
 
 <iframe class="map" src="https://www.google.com/maps/d/u/0/embed?mid=1Be0ZZcIQaxNoPTXlfab19m-Fj20" width="1000" height="500">
 </iframe>
-

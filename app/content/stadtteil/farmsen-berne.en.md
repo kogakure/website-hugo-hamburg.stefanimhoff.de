@@ -47,4 +47,3 @@ There is a lot of green and peacefulness, good jogging trails along *Berner Au*.
 {{< image src="map/farmsen-berne" alt="Farmsen-Berne" width="1000" >}}
 
 <iframe class="map" src="https://www.google.com/maps/d/u/0/embed?mid=1lrph_CzuZjhnBOCx_v7VKgAVN8I" width="1000" height="500"></iframe>
-
