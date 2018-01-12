@@ -34,13 +34,15 @@
     "url": "https://github.com/kogakure/website-hugo-hamburg.stefanimhoff.de/issues"
   },
   "devDependencies": {
-    "babel-core": "^6.24.1",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
     "babel-eslint": "6.1.2",
     "babel-loader": "7.0.0",
     "babel-plugin-transform-class-properties": "6.10.2",
     "babel-plugin-transform-object-assign": "6.8.0",
     "babel-plugin-transform-object-rest-spread": "6.8.0",
     "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
     "browser-sync": "^2.18.12",
     "commitizen": "^2.9.6",
     "concurrent-transform": "^1.0.0",
