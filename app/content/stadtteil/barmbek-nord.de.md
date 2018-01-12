@@ -3,7 +3,7 @@ title: Barmbek-Nord
 slug: barmbek-nord
 author: Stefan Imhoff
 date: 2015-07-18T18:00:00+02:00
-distance: 16,94
+distance: 17
 duration: 3:36
 tags:
 - Kleingarten

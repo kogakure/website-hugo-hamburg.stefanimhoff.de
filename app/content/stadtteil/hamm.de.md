@@ -3,7 +3,7 @@ title: Hamm
 slug: hamm
 author: Stefan Imhoff
 date: 2015-09-06T18:00:00+02:00
-distance: 23,3
+distance: 23
 duration: 4:48
 tags:
 - Boote

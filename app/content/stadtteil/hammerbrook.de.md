@@ -3,7 +3,7 @@ title: Hammerbrook
 slug: hammerbrook
 author: Stefan Imhoff
 date: 2015-09-12T18:00:00+02:00
-distance: 10,8
+distance: 11
 duration: 2:39
 tags:
 - Gewerbegebiet

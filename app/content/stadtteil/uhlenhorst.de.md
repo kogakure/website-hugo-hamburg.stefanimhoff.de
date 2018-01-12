@@ -3,7 +3,7 @@ title: Uhlenhorst
 slug: uhlenhorst
 author: Stefan Imhoff
 date: 2015-08-16T18:00:00+02:00
-distance: 12,4
+distance: 12
 duration: 2:45
 tags:
 - Alster

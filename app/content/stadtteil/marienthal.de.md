@@ -3,7 +3,7 @@ title: Marienthal
 slug: marienthal
 author: Stefan Imhoff
 date: 2015-06-21T18:00:00+02:00
-distance: 9,03
+distance: 9
 duration: 1:53
 tags:
 - Denkmal

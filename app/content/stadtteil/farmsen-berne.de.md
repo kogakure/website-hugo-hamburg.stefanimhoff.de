@@ -3,7 +3,7 @@ title: Farmsen-Berne
 slug: farmsen-berne
 author: Stefan Imhoff
 date: 2015-06-07T18:00:00+02:00
-distance: 16,27
+distance: 16
 duration: 3:18
 tags:
 - Familie

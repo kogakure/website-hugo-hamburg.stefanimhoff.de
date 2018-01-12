@@ -3,7 +3,7 @@ title: Dulsberg
 slug: dulsberg
 author: Stefan Imhoff
 date: 2015-06-25T18:00:00+02:00
-distance: 6,08
+distance: 6
 duration: 1:14
 tags:
 - Park

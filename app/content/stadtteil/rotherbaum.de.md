@@ -3,7 +3,7 @@ title: Rotherbaum
 slug: rotherbaum
 author: Stefan Imhoff
 date: 2016-10-22T18:00:00+02:00
-distance: 15,8
+distance: 16
 duration: 4:15
 tags:
 - Alster

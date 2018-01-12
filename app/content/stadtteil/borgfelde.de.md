@@ -3,7 +3,7 @@ title: Borgfelde
 slug: borgfelde
 author: Stefan Imhoff
 date: 2015-08-28T18:00:00+02:00
-distance: 5,57
+distance: 6
 duration: 1:23
 tags:
 - Denkmal

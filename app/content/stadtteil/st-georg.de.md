@@ -3,7 +3,7 @@ title: St. Georg
 slug: st-georg
 author: Stefan Imhoff
 date: 2015-10-11T18:00:00+02:00
-distance: 12,0
+distance: 12
 duration: 3:03
 tags:
 - Alster

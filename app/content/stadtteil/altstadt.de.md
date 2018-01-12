@@ -3,7 +3,7 @@ title: Altstadt
 slug: altstadt
 author: Stefan Imhoff
 date: 2016-05-07T18:00:00+02:00
-distance: 17,9
+distance: 18
 duration: 5:17
 tags:
 - Alster

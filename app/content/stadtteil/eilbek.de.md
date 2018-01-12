@@ -3,7 +3,7 @@ title: Eilbek
 slug: eilbek
 author: Stefan Imhoff
 date: 2015-07-22T18:00:00+02:00
-distance: 9,75
+distance: 10
 duration: 2:09
 tags:
 - Bunker

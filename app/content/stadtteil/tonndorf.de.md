@@ -3,7 +3,7 @@ title: Tonndorf
 slug: tonndorf
 author: Stefan Imhoff
 date: 2015-06-14T18:00:00+02:00
-distance: 14,91
+distance: 15
 duration: 3:32
 tags:
 - Denkmal
