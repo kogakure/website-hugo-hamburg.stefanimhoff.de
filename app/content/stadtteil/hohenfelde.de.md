@@ -3,7 +3,7 @@ title: Hohenfelde
 slug: hohenfelde
 author: Stefan Imhoff
 date: 2015-08-21T18:00:00+02:00
-distance: 6,4
+distance: 6
 duration: 1:30
 tags:
 - Alster

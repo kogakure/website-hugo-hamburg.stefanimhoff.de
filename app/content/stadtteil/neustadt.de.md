@@ -3,7 +3,7 @@ title: Neustadt
 slug: neustadt
 author: Stefan Imhoff
 date: 2016-09-10T18:00:00+02:00
-distance: 16,2
+distance: 16
 duration: 4:57
 tags:
 - Alster

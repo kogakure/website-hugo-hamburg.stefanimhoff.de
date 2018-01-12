@@ -3,7 +3,7 @@ title: HafenCity
 slug: hafencity
 author: Stefan Imhoff
 date: 2015-07-26T18:00:00+02:00
-distance: 12,14
+distance: 12
 duration: 4:04
 tags:
 - Architektur

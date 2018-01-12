@@ -3,7 +3,7 @@ title: Barmbek-Süd
 slug: barmbek-sued
 author: Stefan Imhoff
 date: 2015-07-11T18:00:00+02:00
-distance: 16,05
+distance: 16
 duration: 3:40
 tags:
 - Denkmal

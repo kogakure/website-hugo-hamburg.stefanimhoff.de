@@ -3,7 +3,7 @@ title: Wandsbek
 slug: wandsbek
 author: Stefan Imhoff
 date: 2015-06-20T18:00:00+02:00
-distance: 15,53
+distance: 16
 duration: 3:27
 tags:
 - Denkmal
