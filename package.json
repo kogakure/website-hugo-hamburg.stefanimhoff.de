@@ -19,18 +19,19 @@
     "lint": "yarn run lint-js && yarn run lint-css",
     "lint-js": "eslint src/**/*.js",
     "lint-css": "stylelint src/**/*.css",
+    "test": "yarn run lint",
     "cz": "git-cz"
   },
-  "keywords": [
-    "hugo"
-  ],
+  "keywords": ["hugo"],
   "homepage": "https://hamburg.stefanimhoff.de",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kogakure/website-hugo-hamburg.stefanimhoff.de.git"
+    "url":
+      "git+https://github.com/kogakure/website-hugo-hamburg.stefanimhoff.de.git"
   },
   "bugs": {
-    "url": "https://github.com/kogakure/website-hugo-hamburg.stefanimhoff.de/issues"
+    "url":
+      "https://github.com/kogakure/website-hugo-hamburg.stefanimhoff.de/issues"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
