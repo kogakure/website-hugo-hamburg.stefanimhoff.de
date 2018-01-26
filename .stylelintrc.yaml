@@ -52,9 +52,3 @@ rules:
   no-eol-whitespace: true
   no-missing-end-of-source-newline: true
   order/properties-alphabetical-order: true
-  rule-empty-line-before:
-    - always
-    - ignore:
-      - after-comment
-      except:
-        - first-nested

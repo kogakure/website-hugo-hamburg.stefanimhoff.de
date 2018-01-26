@@ -19,6 +19,7 @@
     "lint": "yarn run lint-js && yarn run lint-css",
     "lint-js": "eslint src/**/*.js",
     "lint-css": "stylelint src/**/*.css",
+    "test": "yarn run lint",
     "cz": "git-cz"
   },
   "keywords": [
@@ -80,6 +81,7 @@
     "postcss-responsive-type": "^0.4.0",
     "psi": "^3.0.0",
     "stylelint": "7.1.0",
+    "stylelint-order": "^0.8.0",
     "webpack": "^2.6.0"
   },
   "dependencies": {
