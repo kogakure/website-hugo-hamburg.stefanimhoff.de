@@ -61,7 +61,7 @@ Am südlichen Ende des *Jacobipark* steht ein alter Zivilschutzbunker aus dem Ja
 
 {{< image src="stadtteile/eilbek-22" alt="Zivilschutzbunker" width="1000" height="1334" >}}
 
-Weiter auf der *Hasselbrookstraße* an der *Schule Hasselbrook* vor, die ein Kulturdenkmal ist und 1905 gebaut wurde, durch die Ritterstraße und dann an der *Friedenskirche Eilbek* (1885) vorbei.
+Weiter auf der *Hasselbrookstraße* an der *Schule Hasselbrook* vorbei, die ein Kulturdenkmal ist und 1905 gebaut wurde, durch die Ritterstraße und dann an der *Friedenskirche Eilbek* (1885) vorbei.
 
 {{< image src="stadtteile/eilbek-23" alt="Das Kulturdenkmal Schule Hasselbrook" width="1000" caption="Das Kulturdenkmal Schule Hasselbrook." >}}
 
