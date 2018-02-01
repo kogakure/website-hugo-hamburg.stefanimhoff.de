@@ -74,7 +74,7 @@ I walked past the *district court Hamburg-Barmbek*, back to the north and then o
 
 {{< image src="stadtteile/barmbek-sued-21" alt="Subway station Dehnhaide" width="1125" height="1500" >}}
 
-I continued along on the road *Flachsland*, where I could take a look at the *T.R.U.D.E.* (Tief runter unter die Elbe, engl. deep down under the Elbe) on the other side of the canal, which stands in the courtyard of the *Museum für Arbeit*. It is the former largest drill head in the world, with which the tubes of the Elbtunnel were dug. Along the *Bramfelder Straße* and back to the south, a long time along *Eilbekkanal* and back to the north.
+I continued along on the road *Flachsland*, where I could take a look at the *T.R.U.D.E.* (Tief runter unter die Elbe, engl. deep down under the Elbe) on the other side of the canal, which stands in the courtyard of the *Museum für Arbeit*. It is the former largest boring head in the world, with which the tubes of the Elbtunnel were dug. Along the *Bramfelder Straße* and back to the south, a long time along *Eilbekkanal* and back to the north.
 
 {{< image src="stadtteile/barmbek-sued-23" alt="View of the T.R.U.D.E." width="1000" >}}
 
