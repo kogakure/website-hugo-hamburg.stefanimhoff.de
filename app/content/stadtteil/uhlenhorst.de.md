@@ -38,7 +38,7 @@ Ich bin am *Kuhmühlenteich* entlanggegangen, um die *St. Gertrud-Kirche* herum,
 
 {{< image src="stadtteile/uhlenhorst-10" alt="Die St. Gertrud-Kirche" width="1000" height="1334" >}}
 
-{{< image src="stadtteile/uhlenhorst-11" alt="Denkmahl mit Schutzheiligen und Kirchen Hamburgs" width="1000" caption="Denkmal mit Schutzheiligen und Kirchen Hamburgs." >}}
+{{< image src="stadtteile/uhlenhorst-11" alt="Denkmal mit Schutzheiligen und Kirchen Hamburgs" width="1000" caption="Denkmal mit Schutzheiligen und Kirchen Hamburgs." >}}
 
 {{< image src="stadtteile/uhlenhorst-12" alt="Denkmal für Carl Hermann Manehut" width="1000" height="1334" caption="Denkmal für Carl Hermann Manehut bei der St. Gertrud-Kirche" >}}
 
