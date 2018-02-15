@@ -1,0 +1,53 @@
+[introductionHeadline]
+other = "Über diese Seite"
+
+[introductionText1]
+other = "Nachdem ich über 10 Jahre in Hamburg gelebt hatte, und trotzdem nur einen kleinen Teil der Stadt kannte, entschloss ich mich 2015 jeden Stadtteil einzeln zu erkunden."
+
+[introductionText2]
+other = "Mit Kamera und Karte durchquere ich jeden der 109 Stadtteile möglichst vollständig, Stadtteil für Stadtteil, Straße für Straße, wann immer es das Wetter zulässt."
+
+[nextHeadline]
+other = "Nächste Tour"
+
+[statisticsHeadline]
+other = "Statistiken"
+
+[statisticsDistance]
+other = "Kilometer"
+
+[statisticsTime]
+other = "Stunden"
+
+[statisticsDistricts]
+other = "Stadtteile"
+
+[paginationPrevious]
+other = "Vorheriger Stadtteil"
+
+[paginationNext]
+other = "Nächster Stadtteil"
+
+[footerMetaTags]
+other = "Tags"
+
+[footerNavLanguage]
+other = "Sprache"
+
+[footerNavLanguageDe]
+other = "DE"
+
+[footerNavLanguageEn]
+other = "EN"
+
+[footerMetaPublished]
+other = "Veröffentlicht am"
+
+[footerLegal]
+other = 'Die Inhalte dieser Seite sind unter einer <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="footer-legal-link">Creative Commons Lizenz</a> lizensiert.'
+
+[footerNavImprint]
+other = "Impressum"
+
+[durationUnit]
+other = "Std."

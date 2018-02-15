@@ -8,7 +8,7 @@ duration = 58
 count = 18
 
 [seo]
-description = "Hamburg entdecken. Straße für Straße, Stadtteil für Stadtteil."
+description = "Explore Hamburg. Street by street, district by district."
 
 [feeds]
 feedburner_url = "https://feeds.feedburner.com/hamburg-stefanimhoff"

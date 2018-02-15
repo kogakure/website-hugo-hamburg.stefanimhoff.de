@@ -1,6 +1,6 @@
-baseurl         = "https://hamburg.stefanimhoff.de/"
-title           = "Exploring Hamburg"
-languageCode    = "de"
+baseurl                = "https://hamburg.stefanimhoff.de/"
+title                  = "Exploring Hamburg"
+DefaultContentLanguage = "de"
 
 metaDataFormat  = "yaml"
 paginate        = 0
@@ -10,13 +10,14 @@ disableKinds    = ["404"]
 enableRobotsTXT = true
 watch           = true
 
-archetypedir  = "app/archetypes"
-contentdir    = "app/content"
+archetypeDir  = "app/archetypes"
+contentDir    = "app/content"
 dataDir       = "app/data"
-layoutdir     = "app/layouts"
-staticdir     = "app/static"
-themesdir     = "app/themes"
-publishdir    = "dist"
+layoutDir     = "app/layouts"
+staticDir     = "app/static"
+themesDir     = "app/themes"
+i18nDir       = "app/i18n"
+publishDir    = "dist"
 
 [taxonomies]
   tag = "tags"
@@ -29,3 +30,10 @@ publishdir    = "dist"
 
 [permalinks]
   stadtteil = "/:slug/"
+
+[Languages]
+[Languages.de]
+languageCode = "de"
+
+[Languages.en]
+languageCode = "en"

@@ -5,8 +5,8 @@
 
 .archive-list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
   font-size: 0;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
   margin: 0;
   padding: 0;
 }
