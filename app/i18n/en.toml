@@ -37,11 +37,17 @@ other = "Published"
 [footerLegal]
 other = 'The contents of this website are licenced with a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="footer-legal-link">Creative Commons Licence</a>.'
 
-[footerNavHomepage]
-other = "Homepage"
-
 [footerNavImprint]
 other = "Imprint"
+
+[footerNavLanguage]
+other = "Language"
+
+[footerNavLanguageDe]
+other = "GE"
+
+[footerNavLanguageEn]
+other = "EN"
 
 [durationUnit]
 other = "hrs."

@@ -31,14 +31,20 @@ other = "Nächster Stadtteil"
 [footerMetaTags]
 other = "Tags"
 
+[footerNavLanguage]
+other = "Sprache"
+
+[footerNavLanguageDe]
+other = "DE"
+
+[footerNavLanguageEn]
+other = "EN"
+
 [footerMetaPublished]
 other = "Veröffentlicht am"
 
 [footerLegal]
 other = 'Die Inhalte dieser Seite sind unter einer <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="footer-legal-link">Creative Commons Lizenz</a> lizensiert.'
-
-[footerNavHomepage]
-other = "Startseite"
 
 [footerNavImprint]
 other = "Impressum"
