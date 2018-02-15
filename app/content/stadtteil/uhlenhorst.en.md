@@ -101,7 +101,7 @@ Continue east through Fährhausstraße and *Am Langenzug*, through Winterhuder W
 
 {{< image src="stadtteile/uhlenhorst-39" alt="Heilandskirche on Winterhuder Weg." width="1000" height="1334" caption="Heilandskirche on Winterhuder Weg." >}}
 
-Through the *Hofweg* to the north and through the canal road. Via the *Uhlenhorster Kanal* to the north and then to *Winterhuder Weg * to the east.
+Through the *Hofweg* to the north and through the canal road. Via the *Uhlenhorster Kanal* to the north and then to *Winterhuder Weg* to the east.
 
 {{< image src="stadtteile/uhlenhorst-40" alt="Building in Uhlenhorst" width="1000" caption="Most of the buildings in Uhlenhorst are extremely pretty, with many beautifully decorated facades." >}}
 
