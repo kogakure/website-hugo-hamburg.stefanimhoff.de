@@ -94,13 +94,13 @@ Anschließend bin ich durch die Wohngebiete nördlich des Parks gegangen und dur
 
 {{< image src="stadtteile/hamm-34" alt="Dreifaltigkeitskirche mit dem historischen, denkmalgeschützten Friedhof" width="1000" >}}
 
-Ich bin weiter durch den Park südlich der *Dreifaltigkeitskirche* gegangen und an der *Hammer Landstraße* entlang bis zur U-Bahn-Station *Rauhes Haus*. Weiter nach Süden und den *Droopweg* entlang. Die *Döhnerstraße* hinunter, die vermutlich ihren Namen nicht ohne Grund hat, denn in der Nähe steht eine türkische Moschee und einige türkische Geschäfte. In *Hamm* Leben wohl ziemlich viele Muslime, denn mir sind eine Menge Frauen mit Kopftüchern begegnet.
+Ich bin weiter durch den Park südlich der *Dreifaltigkeitskirche* gegangen und an der *Hammer Landstraße* entlang bis zur U-Bahn-Station *Rauhes Haus*. Weiter nach Süden und den *Droopweg* entlang. Die *Döhnerstraße* hinunter, die ihren Namen aber nicht vom Döner bekommen hat, sondern von *Friedrich Adolf Döhner*, einem Kaufmann und Politiker. In *Hamm* Leben wohl ziemlich viele Muslime, denn mir sind eine Menge Frauen mit Kopftüchern begegnet.
 
 {{< image src="stadtteile/hamm-35" alt="U-Bahn-Station Rauhes Haus" width="1000" >}}
 
 Das Wohnen in *Hamm* ist nichts für Personen, die Ruhe brauchen, da das Lärmpensum besonders entlang der *Eiffelstraße* enorm ist. Zusätzlich liegt Hamm direkt in der Einflugschneise des Flughafens und die Jets überqueren den Stadtteil sehr häufig in ziemlichem Tiefflug.
 
-Ich habe mir die Wohngebiete in *Hamm-Mitte* in einem großen Bogen angesehen und bin dann entlang des *Freibads* *Aschberg* nach Süden gegangen. Dort gibt es ein Tierheim und das Gelände des Polizeihundsportvereins. Südlich entlang der *Bille* gibt es nur noch große Kleingartenverein-Flächen, ebenso gegenüber auf der *Billerhuder Insel* (die zu *Rothenburgsort* gehört). Unzählige Jachten liegen hier an den Ufern vor Anker und Familien fahren mit ihren Booten auf den Kanälen herum.
+Ich habe mir die Wohngebiete in *Hamm-Mitte* in einem großen Bogen angesehen und bin dann entlang des *Freibads Aschberg* nach Süden gegangen. Dort gibt es ein Tierheim und das Gelände des Polizeihundsportvereins. Südlich entlang der *Bille* gibt es nur noch große Kleingartenverein-Flächen, ebenso gegenüber auf der *Billerhuder Insel* (die zu *Rothenburgsort* gehört). Unzählige Jachten liegen hier an den Ufern vor Anker und Familien fahren mit ihren Booten auf den Kanälen herum.
 
 {{< image src="stadtteile/hamm-36" alt="Industriegebäude in Hamm" width="1000" height="1334" >}}
 
