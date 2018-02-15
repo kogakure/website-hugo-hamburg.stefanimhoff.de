@@ -236,7 +236,7 @@ task('criticalcss', () => {
  * Clean up dist folder for production build
  */
 task('delete', callback => {
-  del([`${distDir}/**`, `!${distDir}/`]);
+  del([distDir]);
   callback();
 });
 
@@ -310,6 +310,33 @@ task('revision-collect', () => {
 });
 
 /**
+ * Create thumbnails
+ */
+task('thumbnails', () => {
+  return src('app/static/assets/images/hero/*.jpg')
+    .pipe(
+      $.responsive(
+        {
+          '*.jpg': [
+            {
+              width: 450,
+              rename: {suffix: '-450px'},
+            },
+          ],
+        },
+        {
+          progressive: true,
+          quality: 70,
+          compressionLevel: 6,
+          withMetadata: false,
+          errorOnUnusedConfig: false,
+        },
+      ),
+    )
+    .pipe(dest('app/static/assets/images/archive/'));
+});
+
+/**
  * Run PageSpeed insights
  */
 task('pagespeed', callback =>
@@ -377,6 +404,7 @@ task(
 
     watch('src/css/**/*.css', series('css', 'lint-css'));
     watch('./src/js/**/*.js', series('js', 'lint-js'));
+    watch('./app/static/assets/images/hero/', series('thumbnails'));
     watch('./app/**/*', series('hugo-dev'));
     watch('./config.toml', series('hugo-dev'));
     watch('./src/svg/*.svg', series('svg'));
