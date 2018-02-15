@@ -2,13 +2,9 @@
 {{ if .Get "url" }}<a href="{{ .Get "url" }}">{{ end }}
 {{ if not (in (.Get "lazyload") "false") }}
 <img data-src="{{ if in (.Get "src") "http" }}{{ .Get "src" }}{{ else }}{{ .Site.BaseURL }}assets/images/{{ .Get "src" }}.jpg{{ end }}"
-  {{ if not (in (.Get "src") "http") }} data-srcset="{{ .Site.BaseURL }}assets/images/responsive/{{ .Get "src" }}-350px.jpg 350w, {{ .Site.BaseURL }}assets/images/responsive/{{ .Get "src" }}-500px.jpg 500w, {{ .Site.BaseURL }}assets/images/responsive/{{ .Get "src" }}-750px.jpg 750w, {{ .Site.BaseURL }}assets/images/{{ .Get "src" }}.jpg 1000w"{{ end }}
-  {{ if not (in (.Get "src") "http") }} data-sizes="auto"{{ end }}
   class="lazyload{{ if .Get "class" }} {{ .Get "class" }}{{ end }}"
 {{ else }}
 <img src="{{ if in (.Get "src") "http" }}{{ .Get "src" }}{{ else }}{{ .Site.BaseURL }}assets/images/{{ .Get "src" }}.jpg{{ end }}"
-  {{ if not (in (.Get "src") "http") }} srcset="{{ .Site.BaseURL }}assets/images/responsive/{{ .Get "src" }}-350px.jpg 350w, {{ .Site.BaseURL }}assets/images/responsive/{{ .Get "src" }}-500px.jpg 500w, {{ .Site.BaseURL }}assets/images/responsive/{{ .Get "src" }}-750px.jpg 750w, {{ .Site.BaseURL }}assets/images/{{ .Get "src" }}.jpg 1000w"{{ end }}
-  {{ if not (in (.Get "src") "http") }} sizes="(min-width: 960px) 960px, 100vw"{{ end }}
   {{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }}
 {{ end }}
 {{ if .Get "alt" }} alt="{{ .Get "alt" }}"{{ end }}
