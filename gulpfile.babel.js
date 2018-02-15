@@ -236,7 +236,7 @@ task('criticalcss', () => {
  * Clean up dist folder for production build
  */
 task('delete', callback => {
-  del([distDir]);
+  del([`${distDir}/**`, `!${distDir}/`]);
   callback();
 });
 
@@ -363,7 +363,7 @@ task('build-dev', parallel('css', 'js', 'hugo-dev'));
  */
 task(
   'server',
-  series('build-dev', () => {
+  series('delete', 'build-dev', () => {
     browserSync.init({
       server: {
         baseDir: distDir,
