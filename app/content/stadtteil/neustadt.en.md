@@ -6,18 +6,18 @@ date: 2016-09-10T18:00:00+02:00
 distance: 16
 duration: 4:57
 tags:
-- Alster
-- Denkmal
-- Einkaufen
-- Hafen
-- Historisch
-- Kirche
-- Wasser
+- alster
+- memorial
+- shopping
+- harbor
+- historical
+- church
+- water
 ---
 
-Die *Neustadt* Hamburgs ist für mich besonders interessant gewesen, da ich den Stadtteil berufsbedingt schon gut kannte und gespannt war, ob ich noch Dinge entdecken würde, die ich nicht kenne.
+The *Neustadt* Hamburg was particularly interesting for me, because I knew the district by profession already well and was curious if I would discover things that I do not know.
 
-Von der U-Bahnstation *Baumwall* aus bin ich direkt am Hafen gestartet, wo ich die *Elbpromenade* entlang gegangen bin und einen Abstecher über die *Überseebrücke* gemacht habe um die dort liegenden Schiffe zu fotografieren.
+From the subway station *Baumwall* I started directly at the harbor, where I went along the *Elbpromenade* and made a detour over the *Überseebrücke* to photograph the ships lying there.
 
 {{< image src="stadtteile/neustadt-01" alt="Neustadt" width="1000" height="853" >}}
 
@@ -33,15 +33,15 @@ Von der U-Bahnstation *Baumwall* aus bin ich direkt am Hafen gestartet, wo ich d
 
 {{< image src="stadtteile/neustadt-07" alt="Neustadt" width="1000" height="853" >}}
 
-Anschließend bin ich durch die südliche Neustadt gegangen, das sogenannte *Portugiesenviertel*, wo sich Portugiesische und Spanische Restaurants aneinanderreihen. Es gibt viele schöne Gebäude im hanseatischen Stil.
+Then I went through the southern Neustadt, the so-called *Portuguese quarter*, where Portuguese and Spanish restaurants string together. There are many beautiful buildings in Hanseatic style.
 
-Direkt neben dem Bürokomplex von G+J befindet sich die *Michelwiese*, ein Park der sich vom Michel bis zum Hafen erstreckt.
+Right next to the office complex of G+J is the *Michelwiese*, a park that stretches from the Michel to the harbor.
 
 {{< image src="stadtteile/neustadt-08" alt="Neustadt" width="1000" height="1501" >}}
 
-Über den Venusberg bin ich am *Alten Elbpark* mit Bismarck-Denkmal vorbei Richtung *St. Michaelis* (Michel) gegangen. Da ich schon öfter auf der Spitze des Michel war, habe ich mir das dieses Mal gesparrt und stattdessen die Statuen und Kunstwerke rund um die Kirche näher angeschaut.
+Along the Venusberg I walked next to *Alster Elbpark* with Bismarck monument in direction of *St. Michaelis* (Michel). Since I’ve been on the top of the Michel many times, I've been saving myself this time, looking instead at the statues and artworks around the church.
 
-Nahe des Michels steht das *Denkmal der Zitronenjette*, deren Finger völlig blank gescheuert ist, da angeblich Glück bringen soll an ihrem Finger zu reiben.
+Near the Michels stands the *monument of the Zitronenjette*, whose fingers are scrubbed completely blank, since supposedly bring luck to rub on her finger.
 
 {{< image src="stadtteile/neustadt-09" alt="Neustadt" width="1000" height="853" >}}
 
@@ -55,7 +55,7 @@ Nahe des Michels steht das *Denkmal der Zitronenjette*, deren Finger völlig bla
 
 {{< image src="stadtteile/neustadt-14" alt="Neustadt" width="1000" height="1501" >}}
 
-Ich bin dann am kleinen Michel vorbeigegangen und Richtung *Großneumarkt*. Mit einigen Umwegen folge danach die nördliche Neustadt mit ihren teuren Einkaufsstraßen. Hier sind alle teuren Mode- und Luxusgutmarken angesiedelt und die Sportwagendichte ist äußerst hoch. Ich bin direkt am *Alsterfleet* und den *Alsterarkaden* entlang gegangen, durch *Neuer Wall* und *Große Bleichen*. Ich habe das *Hanse-Viertel*, eine große Einkaufspassage in der Neustadt umrundet.
+I then passed the small Michel and direction *Grossneumarkt*. After a few detours, follow the northern Neustadt with its expensive shopping streets. Here are all expensive fashion and luxury goods brands settled and the sports car density is extremely high. I went directly along the *Alsterfleet* and the *Alsterarkaden*, through *Neuer Wall* and *Große Bleichen*. I have circled the *Hanse-Viertel*, a large shopping arcade in Neustadt.
 
 {{< image src="stadtteile/neustadt-15" alt="Neustadt" width="1000" height="853" >}}
 
@@ -111,11 +111,11 @@ Ich bin dann am kleinen Michel vorbeigegangen und Richtung *Großneumarkt*. Mit 
 
 {{< image src="stadtteile/neustadt-41" alt="Neustadt" width="1000" height="1501" >}}
 
-Vorbei an Polizeikommissariat Hamburg-Mitte und der Axel-Springer-Passage. Auch Internet-Firmen wie Google (ABC-Straße) und Facebook (Caffamacherreihe) haben hier Büros.
+Past Police Commissariat Hamburg-Mitte and the Axel-Springer-Passage. Also Internet companies like Google (ABC Street) and Facebook (Caffamacherreihe) have offices here.
 
 {{< image src="stadtteile/neustadt-42" alt="Neustadt" width="1000" height="1501" >}}
 
-Dann bin ich an der *Laeiszhalle* vorbei durch den Dammtorwall gegangen, über den *Gänsemarkt* und durch die *Collonaden*. Zum Abschluss meiner Tour noch einmal um das *Casino Espanade* herum und dann einmal um die *Binnenalster*. Meine Tour endete am Jungfernstieg.
+Then I walked past the *Laeiszhalle* past the Dammtorwall, over the *Gänsemarkt* and through the *Collonades*. At the end of my tour again around the *Casino Espanade* around and then once around the *Binnenalster*. My tour ended at Jungfernstieg.
 
 {{< image src="stadtteile/neustadt-43" alt="Neustadt" width="1000" height="853" >}}
 
@@ -125,6 +125,6 @@ Dann bin ich an der *Laeiszhalle* vorbei durch den Dammtorwall gegangen, über d
 
 {{< image src="stadtteile/neustadt-46" alt="Neustadt" width="1000" height="853" >}}
 
-{{< image src="map/neustadt" alt="Karte Neustadt" width="1000" >}}
+{{< image src="map/neustadt" alt="Map Neustadt" width="1000" >}}
 
 <iframe class="map" src="https://www.google.com/maps/d/u/0/embed?mid=1SFmPYmjakPn5W_7rWfEl1qM7YlY" width="1000" height="500"></iframe>
