@@ -51,9 +51,9 @@ Ich bin am Ufer des Zollkanals entlang, das Spiegel-Gebäude links, bis zum *Me�
 
 {{< image src="stadtteile/altstadt-16" alt="Gebäude in der Altstadt" width="1000" height="1334" >}}
 
-Am *Domplatz*, wo sich heute ein Park mit Sitzgelegenheiten befindet, stand früher vermutlich die *Hammaburg*, die Hamburg ihren Namen gab. Es war aber weniger eine <i>Burg</i>, sondern mehr ein Erdwall mit Holzpalisaden, fünf bis sechs Meter hoch, 15 Meter breit und ungefähr 130 Meter in Länge und Breite.
+Am *Domplatz*, wo sich heute ein Park mit Sitzgelegenheiten befindet, stand früher vermutlich die *Hammaburg*, die Hamburg ihren Namen gab. Es war aber weniger eine *Burg*, sondern mehr ein Erdwall mit Holzpalisaden, fünf bis sechs Meter hoch, 15 Meter breit und ungefähr 130 Meter in Länge und Breite.
 
-Dort befindet sich auch der Sitz von <i>Parship,</i> der <i>Zeit</i> und die <i>Scientology Kirche Hamburg</i>, in deren Schaufenster <i>L. Ron Hubbards</i> Bücher ausliegen und allerlei Werbung für die Psychotests der Kirche gemacht werden. Außerdem steht dort die *Sankt Petri Kirche*, die ich später auch noch besucht habe.
+Dort befindet sich auch der Sitz von *Parship*, der *Zeit* und die *Scientology Kirche Hamburg*, in deren Schaufenster *L. Ron Hubbards* Bücher ausliegen und allerlei Werbung für die Psychotests der Kirche gemacht werden. Außerdem steht dort die *Sankt Petri Kirche*, die ich später auch noch besucht habe.
 
 {{< image src="stadtteile/altstadt-17" alt="Domplatz" width="1000" caption="Domplatz" >}}
 
@@ -99,7 +99,7 @@ Nach einer Runde über die *Cremon-Insel* habe ich mir den *Nikolaifleet* angese
 
 {{< image src="stadtteile/altstadt-36" alt="Deichstraße" width="1000" >}}
 
-Von der *Steintwiete* aus bin ich dann den *Rödingsmarkt* hinuntergegangen, wo die Gleise der U-Bahn oberirdisch auf einer Brücke verlaufen. Ich habe einen Abstecher durch die Straße <b>Herrlichkeit</b> gemacht, die entlang des *Alsterfleets* verläuft. Hier stehen moderne Wohnungen mit Blick auf den Fleet.
+Von der *Steintwiete* aus bin ich dann den *Rödingsmarkt* hinuntergegangen, wo die Gleise der U-Bahn oberirdisch auf einer Brücke verlaufen. Ich habe einen Abstecher durch die Straße *Herrlichkeit* gemacht, die entlang des *Alsterfleets* verläuft. Hier stehen moderne Wohnungen mit Blick auf den Fleet.
 
 {{< image src="stadtteile/altstadt-37" alt="Rödingsmarkt" width="1000" caption="Rödingsmarkt" >}}
 
