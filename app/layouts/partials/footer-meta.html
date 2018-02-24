@@ -13,7 +13,7 @@
         <span class="article-meta-label">{{ T "footerMetaTags" }}</span>
         <span class="article-meta-value">
           {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}
-          <a href="{{ " /tags/ " | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+          <a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
         </span>
         {{ end }}
       </div>
