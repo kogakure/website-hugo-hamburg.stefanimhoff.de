@@ -5,14 +5,6 @@ author: Stefan Imhoff
 date: 2016-05-07T18:00:00+02:00
 distance: 18
 duration: 5:17
-tags:
-- Alster
-- Denkmal
-- Hafen
-- Historisch
-- Kirche
-- Museum
-- Wasser
 ---
 
 Es war ein sonniger Tag mit Temperaturen über 20° C., als ich mich auf meine Tour durch die Altstadt von Hamburg aufgemacht habe. Vom *Hauptbahnhof* aus bin ich Richtung Deichtorhallen gegangen, vorbei an der *City-Hof-Passage*, einigen der ersten Hochhäusern Hamburgs, die in den 1950er-Jahren gebaut wurden. Auch wenn sie nicht wirklich eine Schönheit sind, so haben sie doch historischen Wert.

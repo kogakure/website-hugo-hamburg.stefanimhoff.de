@@ -5,12 +5,6 @@ author: Stefan Imhoff
 date: 2015-06-20T18:00:00+02:00
 distance: 16
 duration: 3:27
-tags:
-- Denkmal
-- Einkaufen
-- Friedhof
-- Historisch
-- Wald
 ---
 
 Im Norden von *Wandsbek* gibt es viele kleine Siedlungen, die sehr hübsch sind, Doppelhaushälften, alles ist gepflegt und sauber. Man merkt, dass die Wandsbeker stolz auf ihren Stadtteil sind.

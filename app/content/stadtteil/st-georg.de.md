@@ -5,17 +5,6 @@ author: Stefan Imhoff
 date: 2015-10-11T18:00:00+02:00
 distance: 12
 duration: 3:03
-tags:
-- Alster
-- Boote
-- Denkmal
-- Gewerbegebiet
-- Historisch
-- Kirche
-- Krankenhaus
-- Kultur
-- Museum
-- Wasser
 ---
 
 Vom Hauptbahnhof aus bin ich vorbei am *Museum für Kunst und Gewerbe* nach Süden gegangen, durch die *Kurt-Schuchermacher-Allee*, vorbei am *Besenbinderhof* und dann die *Norderstraße* an den Gleisen der Bahn entlang. Ich bin an der *Agentur für Arbeit* vorbeigekommen, wo ein riesiges metallenes Kunstwerk steht. Im *Kurt-Schumacher-Haus* hat die SPD Hamburg ihren Sitz, die in *St. Georg* seit Jahren die stärkste Partei ist.

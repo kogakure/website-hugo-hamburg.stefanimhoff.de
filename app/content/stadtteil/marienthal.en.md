@@ -5,11 +5,6 @@ author: Stefan Imhoff
 date: 2015-06-21T18:00:00+02:00
 distance: 9
 duration: 1:53
-tags:
-- monument
-- park
-- villas
-- forest
 ---
 
 From the subway *Wandsbeker Chaussee* I went south. *Hammer Str.* was closed because of a construction.

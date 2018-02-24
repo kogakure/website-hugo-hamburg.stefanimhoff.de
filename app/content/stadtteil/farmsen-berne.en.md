@@ -5,13 +5,6 @@ author: Stefan Imhoff
 date: 2015-06-07T18:00:00+02:00
 distance: 16
 duration: 3:18
-tags:
-- family
-- garden
-- nature
-- quiet
-- forest
-- water
 ---
 
 Farmsen-Berne has a lot of *allotment clubs*, north of *Luisenhof* are mostly 3-storey estates, moderately pretty, but mostly quiet.

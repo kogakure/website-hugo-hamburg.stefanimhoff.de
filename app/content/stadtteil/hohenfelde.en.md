@@ -5,13 +5,6 @@ author: Stefan Imhoff
 date: 2015-08-21T18:00:00+02:00
 distance: 6
 duration: 1:30
-tags:
-- alster
-- historical
-- hospital
-- school
-- schwimming
-- water
 ---
 
 *Hohenfelde* is a small district, which is why I just needed an hour and a half to walk it completely. From the subway station *Lübecker Straße* I went first down the *Steinhauerdamm*, over the tracks and then along the *Bürgerweide* to *Sankt-Ansgar-Schule*.

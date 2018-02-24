@@ -5,13 +5,6 @@ author: Stefan Imhoff
 date: 2015-07-22T18:00:00+02:00
 distance: 10
 duration: 2:09
-tags:
-- bunker
-- graveyard
-- historical
-- church
-- park
-- school
 ---
 
 From the subway station *Wartenau* I went south through the *Conventstraße*.

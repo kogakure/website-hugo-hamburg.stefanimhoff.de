@@ -5,10 +5,6 @@ author: Stefan Imhoff
 date: 2016-10-22T18:00:00+02:00
 distance: 16
 duration: 4:15
-tags:
-- Alster
-- Historisch
-- Wasser
 ---
 
 Vom *Dammtorbahnhof* aus bin ich entlang der Gleise die *Alsterglacis* hinunter zur Alster gegangen und dann am Ufer der Außenalster entlang. Hier gibt es ein italienisches Restaurant und zwei Ruder-Clubs, die zum Großteil auf dem Wasser gebaut sind. Vorbei am US Konsulat, dass auch das *Kleine Weiße Haus an der Alster* genannt wird. Rund um das Konsulat sind die Straßen weiträumig nicht befahrbar und schwere Stahlsäulen und hohe Stahlzäune verhindern, dass ungebetene Gäste per Auto aufs Gelände gelangen.. Außerdem wird es ständig von mehreren deutschen Polizisten bewacht.

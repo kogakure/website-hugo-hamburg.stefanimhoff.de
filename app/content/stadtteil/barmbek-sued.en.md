@@ -5,13 +5,6 @@ author: Stefan Imhoff
 date: 2015-07-11T18:00:00+02:00
 distance: 16
 duration: 3:40
-tags:
-- monument
-- shopping
-- historical
-- hospital
-- culture
-- water
 ---
 
 From the underground station *Mundsburg* I went over the large intersection at the *Mundsburg-Center*. Directly at the intersection is a memorial commemorating the 370 people who died on July 30, 1943 in the bombed Karstadt bunker on Hamburger Straße.

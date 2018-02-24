@@ -5,12 +5,6 @@ author: Stefan Imhoff
 date: 2015-07-26T18:00:00+02:00
 distance: 12
 duration: 4:04
-tags:
-- architecture
-- construction
-- harbor
-- pport
-- water
 ---
 
 From the metro station *Meßberg* I went over a pedestrian bridge to the south in the *HafenCity*. Strictly speaking, however, the district begins only after *Brooktorkai* / *Ericus*. Once I passed the *Spiegel-building* over the *Ericusbrücke*, past *Lohseplatz*, *Koreastraße* and then *Shanghaiallee* to the south. East of the road is still heavily built, several commercial and residential buildings are still under construction and not every street is walkable.

@@ -5,14 +5,6 @@ author: Stefan Imhoff
 date: 2016-09-10T18:00:00+02:00
 distance: 16
 duration: 4:57
-tags:
-- alster
-- memorial
-- shopping
-- harbor
-- historical
-- church
-- water
 ---
 
 The *Neustadt* Hamburg was particularly interesting for me, because I knew the district by profession already well and was curious if I would discover things that I do not know.

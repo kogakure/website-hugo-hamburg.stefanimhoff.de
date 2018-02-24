@@ -8,15 +8,6 @@
           {{ .Date.Format "02.01.2006" }}
         </span>
       </div>
-      <div class="article-meta-tags">
-        {{ if isset .Params "tags" }}
-        <span class="article-meta-label">{{ T "footerMetaTags" }}</span>
-        <span class="article-meta-value">
-          {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}
-          <a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
-        </span>
-        {{ end }}
-      </div>
     </div>
 
     {{ partial "pagination" . }}

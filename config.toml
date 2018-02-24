@@ -20,7 +20,6 @@ i18nDir       = "app/i18n"
 publishDir    = "dist"
 
 [taxonomies]
-  tag = "tags"
 
 [blackfriday]
   smartypants     = false

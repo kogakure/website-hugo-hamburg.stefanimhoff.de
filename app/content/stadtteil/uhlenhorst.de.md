@@ -5,13 +5,6 @@ author: Stefan Imhoff
 date: 2015-08-16T18:00:00+02:00
 distance: 12
 duration: 2:45
-tags:
-- Alster
-- Denkmal
-- Gehoben
-- Historisch
-- Kirche
-- Wasser
 ---
 
 Von der U-Bahn-Station *Mundsburg* aus bin ich unter den Gleisen der U-Bahn nach Osten gegangen, wo gerade ein neues Wohngebiet gebaut wird. Nach Süden zum Gelände der *Fachhochschule HAW*. Wieder nach Norden unter den Gleisen hindurch, dann die *Richardstraße* nach Süden und über den *Eilbekkanal*.

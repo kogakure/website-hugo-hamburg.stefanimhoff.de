@@ -6,6 +6,4 @@ date: {{ .Date }}
 author: "Stefan Imhoff"
 distance:
 duration:
-tags:
--
 ---

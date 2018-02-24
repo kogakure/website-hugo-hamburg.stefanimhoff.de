@@ -5,12 +5,6 @@ author: Stefan Imhoff
 date: 2015-08-28T18:00:00+02:00
 distance: 6
 duration: 1:23
-tags:
-- monument
-- industrial
-- church
-- park
-- water
 ---
 
 *Borgfelde* is one of the smallest districts in Hamburg. I started my tour at the subway station *Burgstraße* and went first through the *upper Borgfelde*.

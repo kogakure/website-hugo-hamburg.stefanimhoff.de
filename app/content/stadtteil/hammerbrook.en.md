@@ -5,10 +5,6 @@ author: Stefan Imhoff
 date: 2015-09-12T18:00:00+02:00
 distance: 11
 duration: 2:39
-tags:
-- industrial
-- harbour
-- water
 ---
 
 From the main station I went south to the *Deichtorplatz*, past the *Deichtorhallen* to the *Oberhafen* and then to the southeast. Directly at the *Oberhafen* is the *Fruchthof*, here begins the district *Hammerbrook*.

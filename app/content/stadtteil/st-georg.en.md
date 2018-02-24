@@ -5,17 +5,6 @@ author: Stefan Imhoff
 date: 2015-10-11T18:00:00+02:00
 distance: 12
 duration: 3:03
-tags:
-- alster
-- boats
-- memorial
-- industrial
-- historical
-- church
-- hospital
-- culture
-- museum
-- water
 ---
 
 From the main train station I went past the *Museum für Kunst und Gewerbe* to the south, through the *Kurt-Schuchermacher-Allee*, past the *Besenbinderhof* and then the *Norderstraße* along the tracks of the railway. I passed by the *Agentur für Arbeit*, where there is a huge metal artwork. In the *Kurt Schumacher House* the SPD Hamburg has its seat, which is located in *St. Georg* has been the strongest party for years.

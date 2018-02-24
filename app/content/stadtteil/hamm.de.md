@@ -5,15 +5,6 @@ author: Stefan Imhoff
 date: 2015-09-06T18:00:00+02:00
 distance: 23
 duration: 4:48
-tags:
-- Boote
-- Denkmal
-- Friedhof
-- Historisch
-- Kirche
-- Natur
-- Park
-- Wasser
 ---
 
 Meine Tour durch *Hamm* war die längste, die ich bisher gemacht habe. *Hamm* besteht aus drei Teilen: Nord, Mitte und Süd. Ich habe meine Tour an der U-Bahn-Station *Burgstraße* begonnen und mir zuerst den Norden angeschaut.

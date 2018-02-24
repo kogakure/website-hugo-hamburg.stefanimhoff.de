@@ -5,11 +5,6 @@ author: Stefan Imhoff
 date: 2015-07-18T18:00:00+02:00
 distance: 17
 duration: 3:36
-tags:
-- Kleingarten
-- Krankenhaus
-- Museum
-- Wohngebiet
 ---
 
 Vom *Bahnhof Barmbek*, wo ein *Rundbunker* aus dem Zweiten Weltkrieg steht, bin ich hinter *Globetrotter* und am *Museum der Arbeit* vorbei bis zum *Osterbekkanal* gegangen.

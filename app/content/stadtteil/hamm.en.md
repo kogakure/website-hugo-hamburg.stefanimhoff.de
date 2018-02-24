@@ -5,15 +5,6 @@ author: Stefan Imhoff
 date: 2015-09-06T18:00:00+02:00
 distance: 23
 duration: 4:48
-tags:
-- boats
-- memorial
-- graveyard
-- historical
-- church
-- nature
-- park
-- water
 ---
 
 My tour through *Hamm* was the longest I have done so far. *Hamm* consists of three parts: North, Middle and South. I started my tour at the subway station *Burgstraße* and first looked at the north.

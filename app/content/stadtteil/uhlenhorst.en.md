@@ -5,12 +5,6 @@ author: Stefan Imhoff
 date: 2015-08-16T18:00:00+02:00
 distance: 12
 duration: 2:45
-tags:
-- alster
-- monument
-- historical
-- church
-- water
 ---
 
 From the underground station *Mundsburg* I went under the tracks of the subway to the east, where a new residential area is being built. Then to the south to the area of *Fachhochschule HAW*. Back to the north under the tracks, then *Richardstraße* to the south and over the *Eilbekkanal*.

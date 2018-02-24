@@ -5,10 +5,6 @@ author: Stefan Imhoff
 date: 2015-07-18T18:00:00+02:00
 distance: 17
 duration: 3:36
-tags:
-- garden
-- hospital
-- museum
 ---
 
 From *Barmbek Station*, where a *round bunker* from World War II is, I went behind *Globetrotter* and the *Museum of Labor* over to the *Osterbekkanal*.
