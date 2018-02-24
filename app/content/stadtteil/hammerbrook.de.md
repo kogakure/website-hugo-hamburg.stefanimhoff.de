@@ -5,10 +5,6 @@ author: Stefan Imhoff
 date: 2015-09-12T18:00:00+02:00
 distance: 11
 duration: 2:39
-tags:
-- Gewerbegebiet
-- Hafen
-- Wasser
 ---
 
 Vom Hauptbahnhof aus bin ich nach Süden zum *Deichtorplatz* gegangen, vorbei an den *Deichtorhallen* bis zum *Oberhafen* und dann nach Südosten. Direkt am *Oberhafen* steht der *Fruchthof*, hier beginnt auch der Stadtteil *Hammerbrook*.

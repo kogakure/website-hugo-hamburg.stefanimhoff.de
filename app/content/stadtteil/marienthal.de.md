@@ -5,11 +5,6 @@ author: Stefan Imhoff
 date: 2015-06-21T18:00:00+02:00
 distance: 9
 duration: 1:53
-tags:
-- Denkmal
-- Park
-- Villen
-- Wald
 ---
 
 Von der U-Bahn *Wandsbeker Chaussee* bin ich nach Süden gegangen. Die *Hammer Str.* war gesperrt, weil alles neu gebaut wird.

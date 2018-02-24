@@ -28,9 +28,6 @@ other = "Vorheriger Stadtteil"
 [paginationNext]
 other = "Nächster Stadtteil"
 
-[footerMetaTags]
-other = "Tags"
-
 [footerNavLanguage]
 other = "Sprache"
 

@@ -5,10 +5,6 @@ author: Stefan Imhoff
 date: 2015-06-25T18:00:00+02:00
 distance: 6
 duration: 1:14
-tags:
-- Park
-- Sport
-- Wohngebiet
 ---
 
 Von der U-Bahn-Station *Strassburger Straße* aus bin ich losgegangen und durch Dulsberg-Süd gewandert.

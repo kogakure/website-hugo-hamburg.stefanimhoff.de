@@ -5,14 +5,6 @@ author: Stefan Imhoff
 date: 2015-07-22T18:00:00+02:00
 distance: 10
 duration: 2:09
-tags:
-- Bunker
-- Friedhof
-- Historisch
-- Kirche
-- Park
-- Schule
-- Wohngebiet
 ---
 
 Von der U-Bahn-Station *Wartenau* aus bin ich durch die *Conventstraße* nach Süden gegangen.

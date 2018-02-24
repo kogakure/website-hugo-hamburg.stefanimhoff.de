@@ -5,13 +5,6 @@ author: Stefan Imhoff
 date: 2015-08-21T18:00:00+02:00
 distance: 6
 duration: 1:30
-tags:
-- Alster
-- Historisch
-- Krankenhaus
-- Schule
-- Schwimmen
-- Wasser
 ---
 
 *Hohenfelde* ist ein kleiner Stadtteil, weshalb ich gerade einmal eineinhalb Stunden gebraucht habe, ihn komplett zu durchwandern. Von der U-Bahn-Station *Lübecker Straße* aus bin ich zuerst den *Steinhauerdamm* hinunter gegangen, über die Gleise und dann die *Bürgerweide* entlang bis zur *Sankt-Ansgar-Schule*.

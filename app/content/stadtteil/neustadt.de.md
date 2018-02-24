@@ -5,14 +5,6 @@ author: Stefan Imhoff
 date: 2016-09-10T18:00:00+02:00
 distance: 16
 duration: 4:57
-tags:
-- Alster
-- Denkmal
-- Einkaufen
-- Hafen
-- Historisch
-- Kirche
-- Wasser
 ---
 
 Die *Neustadt* Hamburgs ist für mich besonders interessant gewesen, da ich den Stadtteil berufsbedingt schon gut kannte und gespannt war, ob ich noch Dinge entdecken würde, die ich nicht kenne.

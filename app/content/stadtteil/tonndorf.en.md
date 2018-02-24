@@ -5,13 +5,6 @@ author: Stefan Imhoff
 date: 2015-06-14T18:00:00+02:00
 distance: 15
 duration: 3:32
-tags:
-- monument
-- graveyard
-- industrial
-- garden
-- forst
-- water
 ---
 
 In Tonndorf there is the *Bio-Bäckerei Springer* (an organic backery), where it smells fantastic of fresh bread and baked goods. Opposite is alarge office complex where companies like *Stressless* or Otto have offices.

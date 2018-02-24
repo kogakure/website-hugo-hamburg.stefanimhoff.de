@@ -5,13 +5,6 @@ author: Stefan Imhoff
 date: 2015-07-26T18:00:00+02:00
 distance: 12
 duration: 4:04
-tags:
-- Architektur
-- Baustelle
-- Freizeit
-- Hafen
-- Sport
-- Wasser
 ---
 
 Von der U-Bahn-Station *Meßberg* bin ich über eine Fußgängerbrücke nach Süden in die *HafenCity* gegangen. Streng genommen beginnt der Stadtteil aber erst ab *Brooktorkai*/*Ericus*. Ich bin einmal am *Spiegel-Gebäude* vorbei über die *Ericusbrücke*, vorbei am *Lohseplatz*, durch die *Koreastraße* und dann die *Shanghaiallee* nach Süden. Östlich der Straße wird noch schwer gebaut, mehrere Gewerbe- und Wohnhäuser befinden sich noch im Bau und nicht jede Straße ist begehbar.

@@ -5,10 +5,6 @@ author: Stefan Imhoff
 date: 2016-10-22T18:00:00+02:00
 distance: 16
 duration: 4:15
-tags:
-- alster
-- historical
-- water
 ---
 
 From *Dammtorbahnhof* I went along the tracks *Alsterglacis* down to the Alster and then along the banks of the Outer Alster along. There is an Italian restaurant and two rowing clubs, most of which are built on the water. Past the US consulate that is called inofficially *Little White House at the Alster*. The streets around the consulate are not passable and heavy steel columns and high steel fences prevent uninvited guests from reaching the grounds by car. Moreover, it is constantly guarded by several German police officers.

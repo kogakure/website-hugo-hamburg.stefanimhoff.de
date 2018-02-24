@@ -5,10 +5,6 @@ author: Stefan Imhoff
 date: 2015-06-25T18:00:00+02:00
 distance: 6
 duration: 1:14
-tags:
-- park
-- sport
-- residential
 ---
 
 From the subway station *Strassburger Straße* I started and hiked through Dulsberg-Süd.

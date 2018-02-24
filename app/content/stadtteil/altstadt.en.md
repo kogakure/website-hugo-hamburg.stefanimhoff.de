@@ -5,14 +5,6 @@ author: Stefan Imhoff
 date: 2016-05-07T18:00:00+02:00
 distance: 18
 duration: 5:17
-tags:
-- alster
-- memorial
-- harbor
-- historical
-- church
-- museum
-- water
 ---
 
 It was a sunny day with temperatures above 20 ° C, when I started my tour through the old town of Hamburg. From *Hauptbahnhof* I headed for Deichtorhallen, past the *City-Hof-Passage*, some of the first skyscrapers in Hamburg built in the 1950s. Even if they are not really a beauty, they have historical value.

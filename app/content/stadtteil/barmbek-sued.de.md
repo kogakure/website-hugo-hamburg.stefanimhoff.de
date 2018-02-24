@@ -5,13 +5,6 @@ author: Stefan Imhoff
 date: 2015-07-11T18:00:00+02:00
 distance: 16
 duration: 3:40
-tags:
-- Denkmal
-- Einkaufen
-- Historisch
-- Krankenhaus
-- Kultur
-- Wasser
 ---
 
 Von der U-Bahn-Station *Mundsburg* aus bin ich über die große Straßenkreuzung beim *Mundsburg-Center* gegangen. Direkt auf der Kreuzung befindet sich ein Mahnmal, das an die 370 Menschen erinnern soll, die am 30. Juli 1943 im bombardierten Karstadt-Bunker in der Hamburger Straße umkamen.

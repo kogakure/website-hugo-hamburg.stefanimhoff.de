@@ -5,12 +5,6 @@ author: Stefan Imhoff
 date: 2015-06-20T18:00:00+02:00
 distance: 16
 duration: 3:27
-tags:
-- monument
-- shopping
-- graveyard
-- historial
-- forest
 ---
 
 In the north of *Wandsbek* there are many small settlements, which are very pretty, semi-detached, everything is well-kept and clean. You can tell that the Wandsbeker are proud of their district.

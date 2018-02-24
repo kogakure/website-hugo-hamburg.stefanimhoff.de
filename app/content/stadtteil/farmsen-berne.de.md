@@ -5,13 +5,6 @@ author: Stefan Imhoff
 date: 2015-06-07T18:00:00+02:00
 distance: 16
 duration: 3:18
-tags:
-- Familie
-- Kleingarten
-- Natur
-- Ruhe
-- Wald
-- Wasser
 ---
 
 Farmsen-Berne hat sehr viele *Kleingartenvereine*, nördlich vom *Luisenhof* gibt es überwiegend 3-stöckige Siedlungen, nur mäßig hübsch, aber überwiegend ruhig gelegen.

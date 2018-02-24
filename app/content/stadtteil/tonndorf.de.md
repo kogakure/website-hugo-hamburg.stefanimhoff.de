@@ -5,13 +5,6 @@ author: Stefan Imhoff
 date: 2015-06-14T18:00:00+02:00
 distance: 15
 duration: 3:32
-tags:
-- Denkmal
-- Friedhof
-- Gewerbegebiet
-- Kleingarten
-- Wald
-- Wasser
 ---
 
 In Tonndorf befindet sich die *Bio-Bäckerei Springer*, wo es fantastisch nach frischem Brot und Backwaren riecht. Gegenüber befindet sich eine großer Bürokomplex, in dem Firmen wie *Stressless* oder auch Otto Büros haben.
