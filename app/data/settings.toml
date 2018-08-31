@@ -3,9 +3,9 @@ author = "Stefan Imhoff"
 url = "https://hamburg.stefanimhoff.de"
 
 [statistics]
-distance = 238
-duration = 58
-count = 18
+distance = 257
+duration = 64
+count = 19
 
 [seo]
 description = "Explore Hamburg. Street by street, district by district."
