@@ -86,7 +86,7 @@
   },
   "dependencies": {
     "fitvids": "^2.0.0",
-    "lazysizes": "^4.0.2"
+    "lazysizes": "^4.1.2"
   },
   "config": {
     "commitizen": {
