@@ -70,7 +70,7 @@
     "gulp-rev-delete-original": "^0.2.3",
     "gulp-size": "^3.0.0",
     "gulp-sourcemaps": "^2.6.4",
-    "gulp-svg-sprite": "^1.4.0",
+    "gulp-svg-sprite": "^1.5.0",
     "gulp-util": "^3.0.7",
     "imports-loader": "^0.8.0",
     "json-loader": "^0.5.4",
