@@ -82,7 +82,7 @@
     "psi": "^3.1.0",
     "stylelint": "9.2.0",
     "stylelint-order": "^0.8.1",
-    "webpack": "^4.26.0"
+    "webpack": "^4.28.2"
   },
   "dependencies": {
     "fitvids": "^2.0.0",
