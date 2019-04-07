@@ -33,7 +33,7 @@
   &::before,
   &::after {
     background: rgba(#ffffff, 0.3);
-    content: "";
+    content: '';
     height: 2px;
     left: 0;
     margin-left: auto;
@@ -55,7 +55,7 @@
 .post-title {
   color: var(--color-white);
   font-family: 'IM Fell English', serif;
-  font-size: responsive 2rem 4rem;
+  font-size: responsive 1.5rem 3rem;
   font-weight: 700;
   letter-spacing: 0.05em;
   line-height: 1;

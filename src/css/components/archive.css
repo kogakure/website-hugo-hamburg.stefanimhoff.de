@@ -67,7 +67,7 @@
 .archive-info-headline {
   color: var(--color-white);
   font-family: 'IM Fell English', serif;
-  font-size: responsive 1rem 1.3rem;
+  font-size: responsive 0.8rem 1rem;
   font-weight: 700;
   letter-spacing: 0.15em;
   line-height: 1;
