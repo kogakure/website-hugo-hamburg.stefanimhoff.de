@@ -3,12 +3,12 @@ author = "Stefan Imhoff"
 url = "https://hamburg.stefanimhoff.de"
 
 [statistics]
-distance = 257
-duration = 64
-count = 19
+distance = 281
+duration = 66
+count = 20
 
 [seo]
-description = "Explore Hamburg. Street by street, district by district."
+description = "Explore Hamburg. Straße für Straße, Stadtteil für Stadtteil."
 
 [feeds]
 feedburner_url = "https://feeds.feedburner.com/hamburg-stefanimhoff"
