@@ -9,7 +9,7 @@
     <div class="wrap">
       <div class="page-title-container">
         <h1 class="page-title">
-          Stadtteile
+          Districts
         </h1>
       </div>
     </div>
@@ -18,7 +18,7 @@
   <div class="wrap">
     <section id="content" class="main-content">
       <ul>
-        {{ range (where .Data.Pages.ByTitle "Type" "stadtteil") }}
+        {{ range (where .Data.Pages.ByTitle "Type" "district") }}
         <li>
           <a href="{{ .RelPermalink }}">
             {{ .Title }}

@@ -1,6 +1,6 @@
 baseurl                = "https://hamburg.stefanimhoff.de/"
 title                  = "Exploring Hamburg"
-DefaultContentLanguage = "de"
+DefaultContentLanguage = "en"
 
 metaDataFormat  = "yaml"
 paginate        = 0
@@ -28,11 +28,4 @@ publishDir    = "dist"
   extensions      = [""]
 
 [permalinks]
-  stadtteil = "/:slug/"
-
-[Languages]
-[Languages.de]
-languageCode = "de"
-
-[Languages.en]
-languageCode = "en"
+  district = "/:slug/"

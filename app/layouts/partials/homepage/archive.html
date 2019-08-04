@@ -1,6 +1,6 @@
 <section id="archive" class="archive">
   <ul class="archive-list">
-    {{ range where .Data.Pages "Type" "stadtteil" }}
+    {{ range where .Data.Pages "Type" "district" }}
     <li class="archive-item">
       <div class="archive-layer">
         <img src="/assets/images/archive/{{ .Slug }}-450px.jpg" class="archive-image" alt="{{ .Title }}">
@@ -9,7 +9,7 @@
             {{ .Title }}
           </h3>
           <h4 class="archive-info-meta">
-            {{ .Params.distance }} km · {{ .Params.duration }} Std.
+            {{ .Params.distance }} km · {{ .Params.duration }} hrs.
           </h4>
           <a class="archive-link" href="{{ .RelPermalink }}"></a>
         </div>
