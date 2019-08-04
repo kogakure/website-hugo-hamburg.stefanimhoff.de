@@ -1,11 +1,11 @@
 ---
-language: "de"
-title: "Impressum"
-description: "Das Impressum mit Ansprechpartner, Rechtshinweisen, Datenschutzhinweisen und Quellenangaben zu verwendeten Grafiken und Fotos."
-author: "Stefan Imhoff"
+language: 'de'
+title: 'Impressum'
+description: 'Das Impressum mit Ansprechpartner, Rechtshinweisen, Datenschutzhinweisen und Quellenangaben zu verwendeten Grafiken und Fotos.'
+author: 'Stefan Imhoff'
 date: 2013-12-17T09:12:00+02:00
 updated: 2015-10-14T18:00:00+02:00
-robots: "noindex,follow"
+robots: 'noindex,follow'
 sitemap_exclude: true
 ---
 
@@ -23,12 +23,6 @@ Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV:<br> Stefan Imhoff (Ans
 Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
 Sollten Sie einen Link finden, der auf eine Webseite verlinkt, die gegen geltendes Recht verstößt, teilen Sie dies mir bitte mit, damit ich den Link entfernen kann.
-
-## Lizenz
-
-Die Inhalte dieser Website von Stefan Imhoff steht unter einer [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/3.0/).
-
-Dies gilt **nicht** für das Design und den Stil dieser Seite. Bei Nutzungen, die über diese Lizenz hinausgehen, bitte eine Anfrage an mich richten. Ich wäre dankbar für eine E-Mail mit Link zur Veröffentlichung oder für ein Probeexemplar.
 
 ## Datenschutz
 
