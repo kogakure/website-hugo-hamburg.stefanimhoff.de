@@ -7,19 +7,15 @@ distance: 19
 duration: 5:30
 ---
 
-From the S-Bahn and U-Bahn _Landungsbrücken_ I went through the _Alter Elbpark_, along _Bismarck Denkmal_ to _Millerntorplatz_. The _Millerntor_ used to be the western of the Hamburg city gates. There is the last remaining northern guardhouse, which was built by Carl Ludwig Wimmel.
-
 {{< image src="district/st-pauli-01" alt="Bismarck Denkmal" width="1000" caption="Bismarck Denkmal" >}}
 
 {{< image src="district/st-pauli-02" alt="Millerntorplatz" width="1000" >}}
 
+The _Millerntor_ used to be the western of the Hamburg city gates. There is the last remaining northern guardhouse, which was built by Carl Ludwig Wimmel.
+
 {{< image src="district/st-pauli-03" alt="Guardhouse at Millerntorplatz" width="1000" caption="Guardhouse at Millerntorplatz" >}}
 
-I walked through the southern entrance of _Planten un Bloomen_ and walked through the park past the _Museum für Hamburgische Geschichte_. The _EisArena_ was closed for renovation. Usually you can do roller skating in summer and ice-skating in winter.
-
-I walked past the _Großen Wallanlagen_, to the left passing Amtsgericht, Municipal Court House and Detention Center over to _Kleinen Wallanlagen_. Here you can see the last remnants of the _Wallgraben_. Over the moat you can see the _Tropical greenhouses of the Botanical Garden_.
-
-{{< image src="district/st-pauli-04" alt="Museum for Hamburg History" width="1000" >}}
+{{< image src="district/st-pauli-04" alt="Museum for Hamburg History" width="1000" caption="Museum for Hamburg History" >}}
 
 {{< image src="district/st-pauli-05" alt="Planten un Bloomen" width="1000">}}
 
@@ -37,7 +33,7 @@ I walked past the _Großen Wallanlagen_, to the left passing Amtsgericht, Munici
 
 {{< image src="district/st-pauli-12" alt="Tropical greenhouses of the Botanical Garden" width="1000" caption="Tropical greenhouses of the Botanical Garden" >}}
 
-I went further north through the _old, botanical garden_, past the _CCH - Congress Center Hamburg_ into the upper part of _Planten un Bloomen_. There I visited the _Rosengarten_ and the _Apothekergarten_, went for a walk around the park lake and looked at the _Japanese garden_ and the _Tea house_.
+The park _Planten un Bloomen_ has a lot of very nice parks and gardens: _Rosengarten_, _Apothekergarten_, _Japanese garden_ with a _Tea house_.
 
 {{< image src="district/st-pauli-13" alt="St. Pauli" width="1000" >}}
 
@@ -59,10 +55,6 @@ I went further north through the _old, botanical garden_, past the _CCH - Congre
 
 {{< image src="district/st-pauli-22" alt="Japanischer Garten" width="1000" >}}
 
-In the northwest I left _Planten un Bloomen_ and went past the Hamburg fairground south through the _Karolinenviertel_. If there is no fair, the area around the fair looks like a ghost town. The Karolinenviertel is pretty, and the advertising agency _Jung von Matt_ is also based here.
-
-I encircled the architecturally very impressive _Russian Orthodox Church of St. John of Kronstadt_ and walked through the quite lively _Marktstraße_.
-
 {{< image src="district/st-pauli-23" alt="Messe" width="1000" >}}
 
 {{< image src="district/st-pauli-24" alt="St. Pauli" width="1000" >}}
@@ -79,9 +71,7 @@ I encircled the architecturally very impressive _Russian Orthodox Church of St. 
 
 {{< image src="district/st-pauli-30" alt="Feldstrasse Bunker (Flackturm IV)" width="1000" caption="Feldstrasse Bunker (Flackturm IV)" >}}
 
-I went further south through St. Pauli towards Reeperbahn. St. Pauli is a progressive-left district full of graffiti. Not a single surface seems to be spared and unfortunately, only a few have artistic quality. In addition, anti-capitalist posters, sticky notes, and messages are pinned everywhere, and one always encounters maliciously destroyed things. Bicycles are the most common victim here.
-
-During my tour I eventually stopped counting the cannibalized, sad remains of bicycles. To leave a bike unattended but locked in this district for a few minutes seems not advisable. What surprised me is that it seems like neither residents nor police are removing these wrecks. Maybe that's part of the charm of the district.
+St. Pauli is a progressive-left district full of graffiti. Not a single surface seems to be spared and unfortunately, only a few have artistic quality. In addition, anti-capitalist posters, sticky notes, and messages are pinned everywhere, and one always encounters maliciously destroyed things. Bicycles are the most common victim here.
 
 {{< image src="district/st-pauli-31" alt="St. Pauli" width="1000" >}}
 
@@ -119,7 +109,7 @@ In the middle of St. Pauli are the _Hamburger Dom_ and the _Millerntorstadium_. 
 
 {{< image src="district/st-pauli-47" alt="St. Pauli" width="1000" >}}
 
-The farther I approached the red light district of St. Pauli the more degenerate were the streets. And especially a constant smell of urine in the corners is quite annoying. St. Pauli has had a problem with _Wildpinklers_ for years, no wonder, as more than 20 million guests come to St. Pauli every year. In 2015, the project _St. Pauli pisses back_ was founded and painted an unknown number of walls with special paint.
+The closer one comes to the red light district of St. Pauli, the more degenerate are the streets. And especially a constant smell of urine in the corners is quite annoying. St. Pauli has had a problem with _Wildpinklers_ for years, no wonder, as more than 20 million guests come to St. Pauli every year. In 2015, the project _St. Pauli pisst zurück_ (St. Pauli pisses back) was founded and painted an unknown number of walls with special paint.
 
 This paint ensures that the urine just pours off and injects the Pinkler directly onto his own shoes and pants. In addition, even three years later you can still see warning signs and advertising posters everywhere, which suggests that the project did not really solve the problem.
 
@@ -129,7 +119,7 @@ This paint ensures that the urine just pours off and injects the Pinkler directl
 
 {{< image src="district/st-pauli-50" alt="St. Pauli" width="1000" >}}
 
-{{< image src="district/st-pauli-51" alt="Restaurant Freudenhaus" width="1000"  >}}
+{{< image src="district/st-pauli-51" alt="Restaurant Freudenhaus" width="1000" caption="Restaurant Freudenhaus" >}}
 
 {{< image src="district/st-pauli-52" alt="St. Pauli" width="1000" >}}
 
@@ -161,19 +151,17 @@ Even in the afternoon the _Reeperbahn_ and the adjacent streets are already well
 
 {{< image src="district/st-pauli-65" alt="DWD – Deutscher Wetterdienst" width="1000" caption="DWD – Deutscher Wetterdienst" >}}
 
-{{< image src="district/st-pauli-66" alt="St. Pauli" width="1000" >}}
+{{< image src="district/st-pauli-66" alt="St. Pauli" width="1000" caption="Do not piss here! We piss back.">}}
 
-At the end of my tour I had a walk through the _St. Pauli Elbtunnel_, through which one can go on foot, by bicycle and during the week by car on a one-way street to _Steinwerder_. You can either take the stairs down, use one of the two passenger lifts, or use sometimes the goods lift, which is operated by a lift driver.
+_St. Pauli Elbtunnel_ connects _Steinwerder_ through a tunnel below the Elbe river which one can go on foot, by bicycle and during the week by car on a one-way street.
 
-{{< image src="district/st-pauli-67" alt="Alter Elbtunnel" width="1000" >}}
+{{< image src="district/st-pauli-67" alt="Alter Elbtunnel" width="1000" caption="Alter Elbtunnel" >}}
 
 {{< image src="district/st-pauli-68" alt="Alter Elbtunnel" width="1000" >}}
 
-After a last look at St. Pauli from the opposite side of the Elbe, I made my way back through the _St. Pauli Elbtunnel_, walked along _St. Pauli Landungsbrücken_ and then finished my tour on the S- and U-Bahn station _Landungsbrücken_.
-
 {{< image src="district/st-pauli-69" alt="St. Pauli" width="1000" >}}
 
-{{< image src="district/st-pauli-70" alt="St. Pauli" width="1000" >}}
+{{< image src="district/st-pauli-70" alt="Locks at brigde to station Landungsbrücken" width="1000" caption="Locks at brigde to station Landungsbrücken" >}}
 
 {{< image src="map/st-pauli" alt="St. Pauli" width="1000" >}}
 

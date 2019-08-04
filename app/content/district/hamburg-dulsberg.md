@@ -7,9 +7,9 @@ distance: 6
 duration: 1:14
 ---
 
-From the subway station _Strassburger Straße_ I started and hiked through Dulsberg-Süd.
+The buildings in this district are made almost exclusively from red brick from the 20s. Everything was rebuilt, because the district was completely destroyed by _Operation Gomorrah_, a firebomb attack on Hamburg in WW2. 
 
-The buildings are mad almost only from red brick from the 20s (rebuilt, the districts was completely destroyed by Operation Gomorrah). Dulsberg is exceptionally well connected for its size. There are two subway stations and one suburban train station.
+Dulsberg is exceptionally well connected for its size. There are two subway stations and one suburban train station.
 
 {{< image src="district/dulsberg-01" alt="Building in Dulsberg" width="1000" >}}
 
@@ -23,9 +23,7 @@ In Nord-Dulsberg there is an elongated park, which is very beautiful and also qu
 
 {{< image src="district/dulsberg-02" alt="Park in Dulsberg" width="1000" >}}
 
-I passed a meeting place for Turkish men, where about 20 men sat in a room around a table and talked or played.
-
-There is the _Linne-Kampfbahn_, a sports field with a red surface. Along the Old Teichweg I walked past _Sportpark Dulsberg_ (_Olympic base Hamburg_) with the _Beach Center_.
+There is the _Linne-Kampfbahn_, a sports field with a red surface. Next to it is _Sportpark Dulsberg_ (_Olympic base Hamburg_) with the _Beach Center_.
 
 {{< image src="district/dulsberg-08" alt="Olympic base Hamburg in Dulsberg" width="1000" >}}
 

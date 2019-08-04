@@ -43,15 +43,15 @@ Near the train station Hamburg-Tonndorf is the _Studio Hamburg_ and a large shop
 
 {{< image src="district/tonndorf-11" alt="Studio Hamburg" width="1000" caption="Studio Hamburg, they have a lot of antennas and satellite dishes on the roof." >}}
 
-At the _Ostender Teich_ is an outdoor pool, the gate was open and I could just go in there. There is a small beach and an area where you can swim.
+At the _Ostender Teich_ is an outdoor pool. There is a small beach and an area where you can swim.
 
-{{< image src="district/tonndorf-12" alt="Ostender Teich" width="1000" >}}
+{{< image src="district/tonndorf-12" alt="Ostender Teich" width="1000" caption="Freibad Ostender Teich" >}}
 
 {{< image src="district/tonndorf-13" alt="Ostender Teich" width="1000" >}}
 
 {{< image src="district/tonndorf-14" alt="Ostender Teich" width="1000" >}}
 
-North of the _Wandse_ are 3- to 5-storey houses, some very new and extremely pretty. A brand new condominium is currently under construction right next to the forest.
+North of the _Wandse_ are 3- to 5-storey houses, some very new and extremely pretty. A brand new condominium was under construction right next to the forest.
 
 {{< image src="district/tonndorf-15" alt="Residental area north of the Wandse" width="1000" >}}
 
@@ -59,7 +59,7 @@ North of the _Wandse_ are 3- to 5-storey houses, some very new and extremely pre
 
 Around the _Pohlmannteiche_ are again small gardens, access to the lakes is only possible for owners (_Strandpark Ziegelsee_).
 
-{{< image src="district/tonndorf-17" alt="Strandpark Ziegelsee: Wer in diesem Kleingartenverein ein Grundstück sein Eigen nennt, hat exklusiven Zugang zu einigen wunderschönen Seen." width="1125" height="1500" caption="Strandpark Ziegelsee: Wer in diesem Kleingartenverein ein Grundstück sein Eigen nennt, hat exklusiven Zugang zu einigen wunderschönen Seen." >}}
+{{< image src="district/tonndorf-17" alt="Strandpark Ziegelsee: Who owns property in this small garden club has exclusive access to some really beautiful lakes." width="1125" height="1500" caption="Strandpark Ziegelsee: Who owns property in this small garden club has exclusive access to some really beautiful lakes." >}}
 
 {{< image src="district/tonndorf-20" alt="Strandpark Ziegelsee" width="1000" >}}
 
