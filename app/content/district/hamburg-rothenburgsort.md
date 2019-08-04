@@ -7,7 +7,7 @@ distance: 24
 duration: 1:44
 ---
 
-It was a very warm Sunday, when I cycled from the S-Bahn station Rothenburgsort to _Billenhuder Insel_. At Rothenburgsort the _Bille_ river flows into the _Elbe_ river, which is why I was able to observe a lot of private boat traffic. The numerous allotments on _Billenhuder Insel_ - if they have access to the Bille - almost always have a jetty and often motorboats.
+At Rothenburgsort the _Bille_ river flows into the _Elbe_ river, which is why there is a lot of private boat traffic. The numerous small garden clubs on _Billenhuder Insel_ - if they have access to the Bille - almost always have a jetty and often motorboats.
 
 {{< image src="district/rothenburgsort-01" alt="View on the Bille" width="1000" >}}
 
@@ -15,25 +15,25 @@ It was a very warm Sunday, when I cycled from the S-Bahn station Rothenburgsort 
 
 {{< image src="district/rothenburgsort-03" alt="View on the Bille" width="1000" >}}
 
-I drove around the _Billenhuder Insel_ and then across the _Bullenhuser Kanal_ and passed the industrial and commercial area there. On a Sunday everything was extinct, except for a few Russian-speaking temporary workers or truck drivers, I met no one. Also south of the _Billekanal_ the industrial and commercial area continues and is traversed by large track systems.
+The north of Rothenburgsort has large areas of industrial and commercial properties. South of the _Billekanal_ the industrial and commercial area continues and is traversed by large track systems.
 
-{{< image src="district/rothenburgsort-04" alt="Frog figures in front of a company" width="1000" >}}
+{{< image src="district/rothenburgsort-04" alt="Frog figures in front of a company" width="1000" caption="Frog figures in front of a company" >}}
 
 South of the tracks there are some residential areas. The landmark of Rothenburgsort can also be seen from here: the 64 meter high water tower on the grounds of the waterworks.
 
 {{< image src="district/rothenburgsort-05" alt="Residential building in Rothenburgsort" width="1000" >}}
 
-{{< image src="district/rothenburgsort-06" alt="Church in Rothenburgsort" width="1000" >}}
+{{< image src="district/rothenburgsort-06" alt="Church in Rothenburgsort" width="1000" caption="Church in Rothenburgsort" >}}
 
-{{< image src="district/rothenburgsort-07" alt="Bridge to Elbpark Entenwerder" width="1000" >}}
+{{< image src="district/rothenburgsort-07" alt="Bridge to Elbpark Entenwerder" width="1000" caption="Bridge to Elbpark Entenwerder" >}}
 
 {{< image src="district/rothenburgsort-08" alt="View on Billwerder Bucht" width="1000" >}}
 
-There are some beautiful green areas in _Elbpark Entenwerder_ and the _Billwerder Buch_ leads to the _Elbinsel Kaltehofe_, where I visited a Museum of Water Art. Further south there is a protected freshwater cove in the _Holzhafen_. This was created as an equalization area for other areas.
+There are some beautiful green areas in _Elbpark Entenwerder_ and the _Billwerder Buch_ leads to the _Elbinsel Kaltehofe_, where a Museum of Water Art is located. Further south there is a protected freshwater cove in the _Holzhafen_. This was created as an equalization area for other areas.
 
 {{< image src="district/rothenburgsort-09" alt="Harbour in Billwerder Bucht" width="1000" >}}
 
-{{< image src="district/rothenburgsort-10" alt="Wasserkunst Elbinsel Kaltehofe" width="1000" >}}
+{{< image src="district/rothenburgsort-10" alt="Wasserkunst Elbinsel Kaltehofe" width="1000" caption="Wasserkunst Elbinsel Kaltehofe" >}}
 
 {{< image src="district/rothenburgsort-11" alt="Wasserkunst Elbinsel Kaltehofe" width="1000" >}}
 
