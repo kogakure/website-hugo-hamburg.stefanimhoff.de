@@ -1,0 +1,94 @@
+build:
+  command: yarn run build
+  publish: dist
+  environment:
+    HUGO_VERSION: 0.40.1
+context:
+  production:
+    environment:
+      HUGO_VERSION: 0.40.1
+  deploy-preview:
+    command: yarn run build-preview
+    environment:
+      HUGO_VERSION: 0.40.1
+  branch-deploy:
+    command: yarn run build-branch
+    environment:
+      HUGO_VERSION: 0.40.1
+redirects:
+  - from: /altstadt/
+    to: /hamburg-altstadt/
+    status: 301
+    force: true
+  - from: /barmbek-nord/
+    to: /hamburg-barmbek-nord/
+    status: 301
+    force: true
+  - from: /barmbek-sued/
+    to: /hamburg-barmbek-sued/
+    status: 301
+    force: true
+  - from: /borgfelde/
+    to: /hamburg-borgfelde/
+    status: 301
+    force: true
+  - from: /dulsberg/
+    to: /hamburg-dulsberg/
+    status: 301
+    force: true
+  - from: /eilbek/
+    to: /hamburg-eilbek/
+    status: 301
+    force: true
+  - from: /farmsen-berne/
+    to: /hamburg-farmsen-berne/
+    status: 301
+    force: true
+  - from: /hafencity/
+    to: /hamburg-hafencity/
+    status: 301
+    force: true
+  - from: /hamm/
+    to: /hamburg-hamm/
+    status: 301
+    force: true
+  - from: /hammerbrook/
+    to: /hamburg-hammerbrook/
+    status: 301
+    force: true
+  - from: /hohenfelde/
+    to: /hamburg-hohenfelde/
+    status: 301
+    force: true
+  - from: /marienthal/
+    to: /hamburg-marienthal/
+    status: 301
+    force: true
+  - from: /neustadt/
+    to: /hamburg-neustadt/
+    status: 301
+    force: true
+  - from: /rotherbaum/
+    to: /hamburg-rotherbaum/
+    status: 301
+    force: true
+  - from: /st-georg/
+    to: /hamburg-st-georg/
+    status: 301
+    force: true
+  - from: /st-pauli/
+    to: /hamburg-st-pauli/
+    status: 301
+    force: true
+  - from: /tonndorf/
+    to: /hamburg-tonndorf/
+    status: 301
+    force: true
+  - from: /uhlenhorst/
+    to: /hamburg-uhlenhorst/
+    status: 301
+    force: true
+  - from: /wandsbek/
+    to: /hamburg-wandsbek/
+    status: 301
+    force: true
