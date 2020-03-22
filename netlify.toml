@@ -24,112 +24,112 @@
 from = "/altstadt/"
 to = "/hamburg-altstadt/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/barmbek-nord/"
 to = "/hamburg-barmbek-nord/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/barmbek-sued/"
 to = "/hamburg-barmbek-sued/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/borgfelde/"
 to = "/hamburg-borgfelde/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/dulsberg/"
 to = "/hamburg-dulsberg/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/eilbek/"
 to = "/hamburg-eilbek/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/farmsen-berne/"
 to = "/hamburg-farmsen-berne/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/hafencity/"
 to = "/hamburg-hafencity/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/hamm/"
 to = "/hamburg-hamm/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/hammerbrook/"
 to = "/hamburg-hammerbrook/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/hohenfelde/"
 to = "/hamburg-hohenfelde/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/marienthal/"
 to = "/hamburg-marienthal/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/neustadt/"
 to = "/hamburg-neustadt/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/rotherbaum/"
 to = "/hamburg-rotherbaum/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/st-georg/"
 to = "/hamburg-st-georg/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/st-pauli/"
 to = "/hamburg-st-pauli/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/tonndorf/"
 to = "/hamburg-tonndorf/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/uhlenhorst/"
 to = "/hamburg-uhlenhorst/"
 status = 301
-force = false
+force = true
 
 [[redirects]]
 from = "/wandsbek/"
 to = "/hamburg-wandsbek/"
 status = 301
-force = false
+force = true
